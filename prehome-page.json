@@ -1,0 +1,3478 @@
+{
+  "data": {
+    "type": "homepage",
+    "id": "",
+    "attributes": {
+      "templateId": null,
+      "title": "Page d'accueil",
+      "zones": [
+        {
+          "zone_bundle": "z1_banner",
+          "zone_id": "58633",
+          "weight": 0,
+          "blocks": [
+            {
+              "templateId": "PreHomeOnboarding",
+              "contentId": "58632",
+              "title": "Bienvenue chez Carrefour",
+              "description": "Les soldes c\u2019est ici que \u00e7a se passe ! \ud83d\udc47",
+              "backgroundColor": "#72aae5",
+              "gradientEnabled": false,
+              "textColor": "#ffffff",
+              "image": {
+                "template_id": "m1_image",
+                "title": "60 ans Carrefour - Onboarding Prehome Desk",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/onboarding-prehome-desk-3840x480-60ans-2023-S20.jpg?itok=_V_a3wBq",
+                  "uri": "\/public\/2023-05\/onboarding-prehome-desk-3840x480-60ans-2023-S20.jpg?itok=_V_a3wBq",
+                  "alt": "60 ans",
+                  "width": "3840",
+                  "height": "480"
+                }
+              },
+              "imageMobile": {
+                "template_id": "m1_image",
+                "title": "60 ans Carrefour - Onboarding Prehome Mobile",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/onboarding-prehome-mobile-750x500-60ans-2023-S20.jpg?itok=bSBjql8d",
+                  "uri": "\/public\/2023-05\/onboarding-prehome-mobile-750x500-60ans-2023-S20.jpg?itok=bSBjql8d",
+                  "alt": "60 ans",
+                  "width": "750",
+                  "height": "500"
+                }
+              },
+              "imageFood": {
+                "template_id": "m1_image",
+                "title": "image-card-al-desk-508x508-60ans-2023-S20.png",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/image-card-al-desk-508x508-60ans-2023-S20.png?itok=Fa4UKi-x",
+                  "uri": "\/public\/2023-05\/image-card-al-desk-508x508-60ans-2023-S20.png?itok=Fa4UKi-x",
+                  "alt": "Alimentaire",
+                  "width": "508",
+                  "height": "508"
+                }
+              },
+              "imageNonFood": {
+                "template_id": "m1_image",
+                "title": "image-card-NAL-desk-508x508-60ans-2023-S20.png",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/image-card-NAL-desk-508x508-60ans-2023-S20.png?itok=dv-LGOoF",
+                  "uri": "\/public\/2023-05\/image-card-NAL-desk-508x508-60ans-2023-S20.png?itok=dv-LGOoF",
+                  "alt": "Non Alimentaire",
+                  "width": "508",
+                  "height": "508"
+                }
+              },
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "58023",
+          "weight": 1,
+          "blocks": [
+            {
+              "templateId": "HighlightHub",
+              "contentId": "59500",
+              "title": null,
+              "titleAlign": null,
+              "columnNumbers": 4,
+              "inlineLayout": true,
+              "blocks": [
+                {
+                  "templateId": "HighlightHubComponent",
+                  "contentId": "59496",
+                  "countdown": null,
+                  "cta": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "description": null,
+                  "flag": null,
+                  "title": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "panier-prix-bloques-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/panier-prix-bloques-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg?itok=YYgwK0gM",
+                      "uri": "\/public\/2023-05\/panier-prix-bloques-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg?itok=YYgwK0gM",
+                      "alt": "panier-prix-bloques-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg",
+                      "width": "498",
+                      "height": "421"
+                    }
+                  },
+                  "imageLink": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "ean": null,
+                  "weight": 0
+                },
+                {
+                  "templateId": "HighlightHubComponent",
+                  "contentId": "59497",
+                  "countdown": null,
+                  "cta": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "description": null,
+                  "flag": null,
+                  "title": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "fruits-legumes-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/fruits-legumes-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg?itok=ymWB3Re3",
+                      "uri": "\/public\/2023-05\/fruits-legumes-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg?itok=ymWB3Re3",
+                      "alt": "fruits-legumes-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg",
+                      "width": "498",
+                      "height": "421"
+                    }
+                  },
+                  "imageLink": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "ean": null,
+                  "weight": 1
+                },
+                {
+                  "templateId": "HighlightHubComponent",
+                  "contentId": "59498",
+                  "countdown": null,
+                  "cta": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "description": null,
+                  "flag": null,
+                  "title": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "bio-TOPUB-hub-4-col-498x421-new-anti-inflation-S20-2023.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/bio-TOPUB-hub-4-col-498x421-new-anti-inflation-S20-2023.jpg?itok=4Paor-R9",
+                      "uri": "\/public\/2023-05\/bio-TOPUB-hub-4-col-498x421-new-anti-inflation-S20-2023.jpg?itok=4Paor-R9",
+                      "alt": "bio-TOPUB-hub-4-col-498x421-new-anti-inflation-S20-2023.jpg",
+                      "width": "498",
+                      "height": "421"
+                    }
+                  },
+                  "imageLink": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "ean": null,
+                  "weight": 2
+                },
+                {
+                  "templateId": "HighlightHubComponent",
+                  "contentId": "59499",
+                  "countdown": null,
+                  "cta": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "description": null,
+                  "flag": null,
+                  "title": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "indispensables-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/indispensables-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg?itok=XMHg-yXA",
+                      "uri": "\/public\/2023-05\/indispensables-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg?itok=XMHg-yXA",
+                      "alt": "indispensables-TOPUB-hub-4-col-498x421-new-anti-inflation-04-2023.jpg",
+                      "width": "498",
+                      "height": "421"
+                    }
+                  },
+                  "imageLink": {
+                    "uri": "\/services",
+                    "target": "_self"
+                  },
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "ean": null,
+                  "weight": 3
+                }
+              ],
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "59471",
+          "weight": 2,
+          "blocks": [
+            {
+              "templateId": "AdvertisingBlock",
+              "contentId": "59470",
+              "adPlacement": "inList1",
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "57518",
+          "weight": 3,
+          "blocks": [
+            {
+              "templateId": "Hub",
+              "title": null,
+              "design": "hub_6",
+              "columnNumbers": 3,
+              "blocks": [
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "REPLAY gtf-hub-desktop_660x180-[LIVE DOTW]_2023_S15_0.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/REPLAY%20gtf-hub-desktop_660x180-%5BLIVE%20DOTW%5D_2023_S15_0.jpg?itok=4EY7aqoH",
+                      "uri": "\/public\/2023-05\/REPLAY%20gtf-hub-desktop_660x180-%5BLIVE%20DOTW%5D_2023_S15_0.jpg?itok=4EY7aqoH",
+                      "alt": "REPLAY gtf-hub-desktop_660x180-[LIVE DOTW]_2023_S15_0.jpg",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "REPLAY gtf-hub-mobile_444x156-[LIVE DOTW]_2023_S15_0.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/REPLAY%20gtf-hub-mobile_444x156-%5BLIVE%20DOTW%5D_2023_S15_0.jpg?itok=lzKFwJaw",
+                      "uri": "\/public\/2023-05\/REPLAY%20gtf-hub-mobile_444x156-%5BLIVE%20DOTW%5D_2023_S15_0.jpg?itok=lzKFwJaw",
+                      "alt": "REPLAY gtf-hub-mobile_444x156-[LIVE DOTW]_2023_S15_0.jpg",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 0
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "VS  gtf-hub-desktop_660x180-MCMA vote pour 2024 _ 2023_S15.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/VS%20%20gtf-hub-desktop_660x180-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=n998gcis",
+                      "uri": "\/public\/2023-05\/VS%20%20gtf-hub-desktop_660x180-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=n998gcis",
+                      "alt": "VS  gtf-hub-desktop_660x180-MCMA vote pour 2024 _ 2023_S15.jpg",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "VS gtf-hub-mobile_444x156-MCMA vote pour 2024 _ 2023_S15.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/VS%20gtf-hub-mobile_444x156-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=c4BFGDA1",
+                      "uri": "\/public\/2023-05\/VS%20gtf-hub-mobile_444x156-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=c4BFGDA1",
+                      "alt": "VS gtf-hub-mobile_444x156-MCMA vote pour 2024 _ 2023_S15.jpg",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 1
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "prime-famille-gtf-hub-desktop_660x180.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/prime-famille-gtf-hub-desktop_660x180.jpg?itok=V1QFHwPm",
+                      "uri": "\/public\/2023-05\/prime-famille-gtf-hub-desktop_660x180.jpg?itok=V1QFHwPm",
+                      "alt": "prime-famille-gtf-hub-desktop_660x180.jpg",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "prime-famille-gtf-hub-mobile_444x156.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/prime-famille-gtf-hub-mobile_444x156.jpg?itok=0XcrljN7",
+                      "uri": "\/public\/2023-05\/prime-famille-gtf-hub-mobile_444x156.jpg?itok=0XcrljN7",
+                      "alt": "prime-famille-gtf-hub-mobile_444x156.jpg",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 2
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "prime-bio-gtf-hub-desktop_660x180.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/prime-bio-gtf-hub-desktop_660x180.jpg?itok=zVB7zMef",
+                      "uri": "\/public\/2023-05\/prime-bio-gtf-hub-desktop_660x180.jpg?itok=zVB7zMef",
+                      "alt": "prime-bio-gtf-hub-desktop_660x180.jpg",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "prime-bio-gtf-hub-mobile_444x156.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/prime-bio-gtf-hub-mobile_444x156.jpg?itok=XrSGvxXV",
+                      "uri": "\/public\/2023-05\/prime-bio-gtf-hub-mobile_444x156.jpg?itok=XrSGvxXV",
+                      "alt": "prime-bio-gtf-hub-mobile_444x156.jpg",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services\/drive",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 3
+                }
+              ],
+              "isAdvertisingEnabled": true,
+              "gamEnabled": false,
+              "gamId": null,
+              "textAlign": "left",
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "59477",
+          "weight": 4,
+          "blocks": [
+            {
+              "templateId": "AdvertisingBlock",
+              "contentId": "59476",
+              "adPlacement": "partner",
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "58629",
+          "weight": 5,
+          "blocks": [
+            {
+              "templateId": "PushImage",
+              "contentId": "59482",
+              "design": "push_1",
+              "backgroundImage": {
+                "template_id": "m1_image",
+                "title": "e commerce  bloc-push-image-petit_2380x400_desktop-MCMA vote pour 2024 _ 2023_S15.jpg",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/e%20commerce%20%20bloc-push-image-petit_2380x400_desktop-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=N7-6gotQ",
+                  "uri": "\/public\/2023-05\/e%20commerce%20%20bloc-push-image-petit_2380x400_desktop-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=N7-6gotQ",
+                  "alt": "Meilleur e-commer\u00e7ant de l'ann\u00e9e",
+                  "width": "2380",
+                  "height": "400"
+                }
+              },
+              "backgroundMobileImage": {
+                "template_id": "m1_image",
+                "title": "HM SM bloc-push-image-grand_mobile_680x600-MCMA vote pour 2024 _ 2023_S15.jpg",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/HM%20SM%20bloc-push-image-grand_mobile_680x600-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=twi4jF4-",
+                  "uri": "\/public\/2023-05\/HM%20SM%20bloc-push-image-grand_mobile_680x600-MCMA%20vote%20pour%202024%20_%202023_S15.jpg?itok=twi4jF4-",
+                  "alt": "Meilleur e-commer\u00e7ant de l'ann\u00e9e",
+                  "width": "680",
+                  "height": "600"
+                }
+              },
+              "title": null,
+              "description": null,
+              "legalMentions": null,
+              "cta1": {
+                "uri": "https:\/\/online.qualimetrie.com\/SE\/?st=lh39Q7CUOQWOt9u8YrBjYCqKy4PYgv98HbkbllvRlCg%3D&urlimport=1&questlist=ORIGIN;PARTICIPATION_VOTE1;NBR_C;TEXTE_CONCOURS_VOTE1;CONCOURS_VOTE1;SECTEUR_VOTE1;CATEGORIE_VOTE1;ENSEIGNE_VOTE1;ID_PARTICIPATION_VOTE1&ORIGIN=2&PARTICIPATION_VOTE1=406&NBR_C=2&TEXTE_CONCOURS_VOTE1=2&CONCOURS_VOTE1=2&SECTEUR_VOTE1=2&CATEGORIE_VOTE1=52&ENSEIGNE_VOTE1=74&ID_PARTICIPATION_VOTE1=742252",
+                "title": "",
+                "target": "_blank"
+              },
+              "cta2": null,
+              "imageFormat": "small_format",
+              "ean": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "58603",
+          "weight": 6,
+          "blocks": [
+            {
+              "templateId": "Hub",
+              "title": null,
+              "design": "hub_6",
+              "columnNumbers": 3,
+              "blocks": [
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "new_hp_hub_e_1.png",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/services-financiers-mini-hub-desktop_660x180-lp-service-2022_0.jpg?itok=5xR440bi",
+                      "uri": "\/public\/2023-05\/services-financiers-mini-hub-desktop_660x180-lp-service-2022_0.jpg?itok=5xR440bi",
+                      "alt": "Services financiers",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "services-financiers-mini-hub-mobile_444x156-lp-service-2022_0.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/services-financiers-mini-hub-mobile_444x156-lp-service-2022_0.jpg?itok=VtAACirN",
+                      "uri": "\/public\/2023-05\/services-financiers-mini-hub-mobile_444x156-lp-service-2022_0.jpg?itok=VtAACirN",
+                      "alt": "Services financiers",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services#financiers",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 0
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "new_hp_hub_e_2",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/avantages-fidelites-mini-hub-desktop_660x180-lp-service-2022_1.jpg?itok=UfehoZFg",
+                      "uri": "\/public\/2023-05\/avantages-fidelites-mini-hub-desktop_660x180-lp-service-2022_1.jpg?itok=UfehoZFg",
+                      "alt": "Services fid\u00e9lit\u00e9",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "avantages-fidelites-mini-hub-mobile_444x156-lp-service-2022_1.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/avantages-fidelites-mini-hub-mobile_444x156-lp-service-2022_1.jpg?itok=PpeACPfK",
+                      "uri": "\/public\/2023-05\/avantages-fidelites-mini-hub-mobile_444x156-lp-service-2022_1.jpg?itok=PpeACPfK",
+                      "alt": "Services Fid\u00e9lit\u00e9",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services#fidelite",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 1
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "new_hp_hub_e_3",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/chiens-chats-mini-hub-desktop_660x180-lp-service-2022_1.jpg?itok=2L1HhOI4",
+                      "uri": "\/public\/2023-05\/chiens-chats-mini-hub-desktop_660x180-lp-service-2022_1.jpg?itok=2L1HhOI4",
+                      "alt": "Services Animaux",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "chiens-chats-mini-hub-mobile_444x156-lp-service-2022_1.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/chiens-chats-mini-hub-mobile_444x156-lp-service-2022_1.jpg?itok=GBBO2F2r",
+                      "uri": "\/public\/2023-05\/chiens-chats-mini-hub-mobile_444x156-lp-service-2022_1.jpg?itok=GBBO2F2r",
+                      "alt": "Services animaux",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services#animal",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 2
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "new_hp_hub_e_4_0",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/energies-mini-hub-desktop_660x180-lp-service-2022_1_0.jpg?itok=neHK6prI",
+                      "uri": "\/public\/2023-05\/energies-mini-hub-desktop_660x180-lp-service-2022_1_0.jpg?itok=neHK6prI",
+                      "alt": "Services \u00e9nergies",
+                      "width": "660",
+                      "height": "180"
+                    }
+                  },
+                  "imageMobile": {
+                    "template_id": "m1_image",
+                    "title": "ernergies-mini-hub-mobile_444x156-lp-service-2022_1.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-05\/ernergies-mini-hub-mobile_444x156-lp-service-2022_1_0.jpg?itok=LPUYNM_Y",
+                      "uri": "\/public\/2023-05\/ernergies-mini-hub-mobile_444x156-lp-service-2022_1_0.jpg?itok=LPUYNM_Y",
+                      "alt": "Services \u00e9nergies",
+                      "width": "444",
+                      "height": "156"
+                    }
+                  },
+                  "cta": {
+                    "uri": "\/services\/fioul-domestique",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 3
+                }
+              ],
+              "isAdvertisingEnabled": false,
+              "gamEnabled": false,
+              "gamId": null,
+              "textAlign": "left",
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "59473",
+          "weight": 7,
+          "blocks": [
+            {
+              "templateId": "AdvertisingBlock",
+              "contentId": "59472",
+              "adPlacement": "inList3",
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z6_product_banner",
+          "zone_id": "65",
+          "weight": 8,
+          "blocks": [
+            {
+              "templateId": "ProductBanner",
+              "title": "Nos bons plans",
+              "image": {
+                "template_id": "m1_image",
+                "title": "product-banner-460x250.png",
+                "image": {
+                  "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2022-04\/product-banner-460x250.png?itok=1c_iFoBy",
+                  "uri": "\/public\/2022-04\/product-banner-460x250.png?itok=1c_iFoBy",
+                  "alt": "French Days",
+                  "width": "460",
+                  "height": "250"
+                }
+              },
+              "description": "Profitez de nos promotions sur les produits high-tech, maison et loisirs en retrait gratuit dans nos Drive, en Retrait 2h ou exp\u00e9di\u00e9s par nos vendeurs partenaires.",
+              "products": {
+                "data": [
+                  {
+                    "type": "product",
+                    "id": "product-4549292151879",
+                    "attributes": {
+                      "ean": "4549292151879",
+                      "cdbase": "6857785",
+                      "title": "Imprimante TS3355  - Noir CANON",
+                      "brand": null,
+                      "slug": "imprimante-ts3355-noir-canon",
+                      "businessType": "non-food",
+                      "offerServiceId": "A1QD-151-4000",
+                      "uri": "",
+                      "categories": null,
+                      "topCategoryName": null,
+                      "images": {
+                        "formats": {
+                          "largest": "540x540",
+                          "common": [
+                            "43x43",
+                            "200x200",
+                            "540x540",
+                            "1500x1500"
+                          ]
+                        },
+                        "paths": [
+                          "https:\/\/media.carrefour.fr\/medias\/c0dfab05ffab3fc9ba1e7bdf56cc1a71\/p_FORMAT\/4549292151879-photosite-20200713-180124-0.jpg"
+                        ]
+                      },
+                      "isDonation": false,
+                      "isBestSeller": false,
+                      "traceability": null,
+                      "keyFeatures": [],
+                      "moreOffers": {
+                        "count": 0,
+                        "bestOfferId": null,
+                        "bestOfferPrice": null,
+                        "hasNonFoodDeliveryOffer": false,
+                        "withdrawalDelivery": {
+                          "exists": false,
+                          "expressWithdrawalEligibility": {
+                            "global": false,
+                            "inCurrentStore": false
+                          }
+                        },
+                        "hasCarrefourPlus": false
+                      },
+                      "offers": {
+                        "4549292151879": {
+                          "A1QD-151-4000": {
+                            "type": "offer",
+                            "subType": "carrefour",
+                            "id": "A1QD-151-4000",
+                            "attributes": {
+                              "availability": {
+                                "indispensable": false,
+                                "purchasable": true,
+                                "stopped": false,
+                                "suspended": false,
+                                "suspensionReason": null
+                              },
+                              "preorder": null,
+                              "price": {
+                                "price": 64.99,
+                                "taxMessage": "Dont 0.9\u20ac \u00e9coParticipation",
+                                "unitOfMeasure": "",
+                                "perUnit": "",
+                                "perUnitLabel": ""
+                              },
+                              "ordering": {
+                                "min": 1,
+                                "step": 1,
+                                "max": 20
+                              },
+                              "offerServiceId": "A1QD-151-4000",
+                              "highlightLabel": null,
+                              "freshness": null,
+                              "marketplace": null,
+                              "ean": "4549292151879",
+                              "promotion": null,
+                              "promotions": [],
+                              "variableWeight": false,
+                              "expressWithdrawalEligibility": {
+                                "global": false,
+                                "inCurrentStore": false
+                              },
+                              "isNonFoodDelivery": true,
+                              "isRelayPointEligible": false,
+                              "description": null,
+                              "shopReturnPolicy": null,
+                              "bundle": {
+                                "label": null
+                              },
+                              "isNew": false,
+                              "isInnovation": false,
+                              "isAlternativeCheaper": false,
+                              "isDigitalCard": false,
+                              "isWholesale": false
+                            },
+                            "meta": {
+                              "cta": "buy"
+                            },
+                            "links": {
+                              "self": ""
+                            }
+                          }
+                        }
+                      },
+                      "packaging": "l'imprimante",
+                      "isExpressWithdrawal": true,
+                      "customerReviews": {
+                        "average": null,
+                        "count": null,
+                        "rates": null
+                      },
+                      "variants": [],
+                      "weightsAndMeasures": []
+                    },
+                    "relationships": {
+                      "substitution": null
+                    },
+                    "meta": {
+                      "recommendation": null,
+                      "cta": "buy",
+                      "features": {
+                        "deletable": false,
+                        "swap": false,
+                        "feedback": false,
+                        "freshness": true
+                      }
+                    },
+                    "links": {
+                      "self": "\/p\/imprimante-ts3355-noir-canon-4549292151879",
+                      "reviews": "\/product\/4549292151879\/reviews"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "id": "product-4895229109698",
+                    "attributes": {
+                      "ean": "4895229109698",
+                      "cdbase": "7292267",
+                      "title": "Casque supra-aural  sans fil - TAH4205BK\/00 - Noir PHILIPS",
+                      "brand": null,
+                      "slug": "casque-supra-aural-sans-fil-tah4205bk-00-noir-philips",
+                      "businessType": "non-food",
+                      "offerServiceId": "A1QD-151-4000",
+                      "uri": "image-son\/casques-ecouteurs\/ecouteurs",
+                      "categories": [
+                        {
+                          "id": "26019",
+                          "code": "R29",
+                          "slug": "image-son",
+                          "label": "Image et Son",
+                          "uri": "image-son",
+                          "type": "RAYON",
+                          "level": 1,
+                          "sellerId": null
+                        },
+                        {
+                          "id": "26260",
+                          "code": "R29F07",
+                          "slug": "casques-ecouteurs",
+                          "label": "Casque et Ecouteurs",
+                          "uri": "image-son\/casques-ecouteurs",
+                          "type": "RAYON",
+                          "level": 2,
+                          "sellerId": null
+                        },
+                        {
+                          "id": "26504",
+                          "code": "R29F07SF04",
+                          "slug": "ecouteurs",
+                          "label": "Ecouteurs ",
+                          "uri": "image-son\/casques-ecouteurs\/ecouteurs",
+                          "type": "RAYON",
+                          "level": 3,
+                          "sellerId": null
+                        }
+                      ],
+                      "topCategoryName": "Image et Son",
+                      "images": {
+                        "formats": {
+                          "largest": "540x540",
+                          "common": [
+                            "43x43",
+                            "200x200",
+                            "540x540",
+                            "1500x1500"
+                          ]
+                        },
+                        "paths": [
+                          "https:\/\/media.carrefour.fr\/medias\/c88e911f318030f1b1948e352604fa81\/p_FORMAT\/4895229109698-photosite-20210727-182713-0.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/04a3c2a5240038589734550ba18d2774\/p_FORMAT\/4895229109698-photosite-20210727-182714-1.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/2b906f5e6d7e35a39aa8e1c1a1e6ec44\/p_FORMAT\/4895229109698-photosite-20210727-182714-2.jpg"
+                        ]
+                      },
+                      "isDonation": false,
+                      "isBestSeller": false,
+                      "traceability": null,
+                      "keyFeatures": [],
+                      "moreOffers": {
+                        "count": 0,
+                        "bestOfferId": null,
+                        "bestOfferPrice": null,
+                        "hasNonFoodDeliveryOffer": false,
+                        "withdrawalDelivery": {
+                          "exists": false,
+                          "expressWithdrawalEligibility": {
+                            "global": false,
+                            "inCurrentStore": false
+                          }
+                        },
+                        "hasCarrefourPlus": false
+                      },
+                      "offers": {
+                        "4895229109698": {
+                          "A1QD-151-4000": {
+                            "type": "offer",
+                            "subType": "carrefour",
+                            "id": "A1QD-151-4000",
+                            "attributes": {
+                              "availability": {
+                                "indispensable": false,
+                                "purchasable": true,
+                                "stopped": false,
+                                "suspended": false,
+                                "suspensionReason": null
+                              },
+                              "preorder": null,
+                              "price": {
+                                "price": 29.99,
+                                "taxMessage": "Dont 0.1\u20ac \u00e9coParticipation",
+                                "unitOfMeasure": "",
+                                "perUnit": "",
+                                "perUnitLabel": ""
+                              },
+                              "ordering": {
+                                "min": 1,
+                                "step": 1,
+                                "max": 20
+                              },
+                              "offerServiceId": "A1QD-151-4000",
+                              "highlightLabel": null,
+                              "freshness": null,
+                              "marketplace": null,
+                              "ean": "4895229109698",
+                              "promotion": null,
+                              "promotions": [],
+                              "variableWeight": false,
+                              "expressWithdrawalEligibility": {
+                                "global": false,
+                                "inCurrentStore": false
+                              },
+                              "isNonFoodDelivery": true,
+                              "isRelayPointEligible": false,
+                              "description": null,
+                              "shopReturnPolicy": null,
+                              "bundle": {
+                                "label": null
+                              },
+                              "isNew": false,
+                              "isInnovation": false,
+                              "isAlternativeCheaper": false,
+                              "isDigitalCard": false,
+                              "isWholesale": false
+                            },
+                            "meta": {
+                              "cta": "buy"
+                            },
+                            "links": {
+                              "self": ""
+                            }
+                          }
+                        }
+                      },
+                      "packaging": "le casque supra-aural",
+                      "isExpressWithdrawal": true,
+                      "customerReviews": {
+                        "average": null,
+                        "count": null,
+                        "rates": null
+                      },
+                      "variants": [],
+                      "weightsAndMeasures": []
+                    },
+                    "relationships": {
+                      "substitution": null
+                    },
+                    "meta": {
+                      "recommendation": null,
+                      "cta": "buy",
+                      "features": {
+                        "deletable": false,
+                        "swap": false,
+                        "feedback": false,
+                        "freshness": true
+                      }
+                    },
+                    "links": {
+                      "self": "\/p\/casque-supra-aural-sans-fil-tah4205bk-00-noir-philips-4895229109698",
+                      "reviews": "\/product\/4895229109698\/reviews"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "id": "product-4548736101425",
+                    "attributes": {
+                      "ean": "4548736101425",
+                      "cdbase": "6873764",
+                      "title": "Casque bluetooth Bluetooth 5.0 - USB Type C - SON-WHCH5-CASQUE BT NOIR  SONY",
+                      "brand": null,
+                      "slug": "casque-bluetooth-bluetooth-5-0-usb-type-c-son-whch5-casque-bt-noir-sony",
+                      "businessType": "non-food",
+                      "offerServiceId": "A1QD-151-4000",
+                      "uri": "image-son\/casques-ecouteurs\/ecouteurs",
+                      "categories": [
+                        {
+                          "id": "26019",
+                          "code": "R29",
+                          "slug": "image-son",
+                          "label": "Image et Son",
+                          "uri": "image-son",
+                          "type": "RAYON",
+                          "level": 1,
+                          "sellerId": null
+                        },
+                        {
+                          "id": "26260",
+                          "code": "R29F07",
+                          "slug": "casques-ecouteurs",
+                          "label": "Casque et Ecouteurs",
+                          "uri": "image-son\/casques-ecouteurs",
+                          "type": "RAYON",
+                          "level": 2,
+                          "sellerId": null
+                        },
+                        {
+                          "id": "26504",
+                          "code": "R29F07SF04",
+                          "slug": "ecouteurs",
+                          "label": "Ecouteurs ",
+                          "uri": "image-son\/casques-ecouteurs\/ecouteurs",
+                          "type": "RAYON",
+                          "level": 3,
+                          "sellerId": null
+                        }
+                      ],
+                      "topCategoryName": "Image et Son",
+                      "images": {
+                        "formats": {
+                          "largest": "540x540",
+                          "common": [
+                            "43x43",
+                            "200x200",
+                            "540x540",
+                            "1500x1500"
+                          ]
+                        },
+                        "paths": [
+                          "https:\/\/media.carrefour.fr\/medias\/0181ca82efa63d92ae4066b94285ac09\/p_FORMAT\/4548736101425-photosite-20210421-170655-0.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/855da99181ec31a0ab87f84cc6e67830\/p_FORMAT\/4548736101425-photosite-20210421-170655-1.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/69f0269bc73b3d66a9704d8298b240a1\/p_FORMAT\/4548736101425-photosite-20210421-170656-2.jpg"
+                        ]
+                      },
+                      "isDonation": false,
+                      "isBestSeller": false,
+                      "traceability": null,
+                      "keyFeatures": [],
+                      "moreOffers": {
+                        "count": 0,
+                        "bestOfferId": null,
+                        "bestOfferPrice": null,
+                        "hasNonFoodDeliveryOffer": false,
+                        "withdrawalDelivery": {
+                          "exists": false,
+                          "expressWithdrawalEligibility": {
+                            "global": false,
+                            "inCurrentStore": false
+                          }
+                        },
+                        "hasCarrefourPlus": false
+                      },
+                      "offers": {
+                        "4548736101425": {
+                          "A1QD-151-4000": {
+                            "type": "offer",
+                            "subType": "carrefour",
+                            "id": "A1QD-151-4000",
+                            "attributes": {
+                              "availability": {
+                                "indispensable": false,
+                                "purchasable": true,
+                                "stopped": false,
+                                "suspended": false,
+                                "suspensionReason": null
+                              },
+                              "preorder": null,
+                              "price": {
+                                "price": 49.99,
+                                "taxMessage": "Dont 0.02\u20ac \u00e9coParticipation",
+                                "unitOfMeasure": "",
+                                "perUnit": "",
+                                "perUnitLabel": ""
+                              },
+                              "ordering": {
+                                "min": 1,
+                                "step": 1,
+                                "max": 20
+                              },
+                              "offerServiceId": "A1QD-151-4000",
+                              "highlightLabel": null,
+                              "freshness": null,
+                              "marketplace": null,
+                              "ean": "4548736101425",
+                              "promotion": null,
+                              "promotions": [],
+                              "variableWeight": false,
+                              "expressWithdrawalEligibility": {
+                                "global": false,
+                                "inCurrentStore": false
+                              },
+                              "isNonFoodDelivery": true,
+                              "isRelayPointEligible": false,
+                              "description": null,
+                              "shopReturnPolicy": null,
+                              "bundle": {
+                                "label": null
+                              },
+                              "isNew": false,
+                              "isInnovation": false,
+                              "isAlternativeCheaper": false,
+                              "isDigitalCard": false,
+                              "isWholesale": false
+                            },
+                            "meta": {
+                              "cta": "buy"
+                            },
+                            "links": {
+                              "self": ""
+                            }
+                          }
+                        }
+                      },
+                      "packaging": "le casque",
+                      "isExpressWithdrawal": true,
+                      "customerReviews": {
+                        "average": null,
+                        "count": null,
+                        "rates": null
+                      },
+                      "variants": [],
+                      "weightsAndMeasures": []
+                    },
+                    "relationships": {
+                      "substitution": null
+                    },
+                    "meta": {
+                      "recommendation": null,
+                      "cta": "buy",
+                      "features": {
+                        "deletable": false,
+                        "swap": false,
+                        "feedback": false,
+                        "freshness": true
+                      }
+                    },
+                    "links": {
+                      "self": "\/p\/casque-bluetooth-bluetooth-5-0-usb-type-c-son-whch5-casque-bt-noir-sony-4548736101425",
+                      "reviews": "\/product\/4548736101425\/reviews"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "id": "product-3614611474838",
+                    "attributes": {
+                      "ean": "3614611474838",
+                      "cdbase": "6036752",
+                      "title": "C\u00e2ble USB PSUSBC2-1 - Blanc POSS",
+                      "brand": null,
+                      "slug": "cable-usb-psusbc2-1-blanc-poss",
+                      "businessType": "non-food",
+                      "offerServiceId": "A1QD-151-4000",
+                      "uri": "",
+                      "categories": null,
+                      "topCategoryName": null,
+                      "images": {
+                        "formats": {
+                          "largest": "540x540",
+                          "common": [
+                            "43x43",
+                            "200x200",
+                            "540x540",
+                            "1500x1500"
+                          ]
+                        },
+                        "paths": [
+                          "https:\/\/media.carrefour.fr\/medias\/4494fe8e2a4334cd81f8124a621b0ae4\/p_FORMAT\/3614611474838-photosite-20180813-123224-0.jpg"
+                        ]
+                      },
+                      "isDonation": false,
+                      "isBestSeller": false,
+                      "traceability": null,
+                      "keyFeatures": [],
+                      "moreOffers": {
+                        "count": 0,
+                        "bestOfferId": null,
+                        "bestOfferPrice": null,
+                        "hasNonFoodDeliveryOffer": false,
+                        "withdrawalDelivery": {
+                          "exists": false,
+                          "expressWithdrawalEligibility": {
+                            "global": false,
+                            "inCurrentStore": false
+                          }
+                        },
+                        "hasCarrefourPlus": false
+                      },
+                      "offers": {
+                        "3614611474838": {
+                          "A1QD-151-4000": {
+                            "type": "offer",
+                            "subType": "carrefour",
+                            "id": "A1QD-151-4000",
+                            "attributes": {
+                              "availability": {
+                                "indispensable": false,
+                                "purchasable": true,
+                                "stopped": false,
+                                "suspended": false,
+                                "suspensionReason": null
+                              },
+                              "preorder": null,
+                              "price": {
+                                "price": 12.9,
+                                "taxMessage": "Dont 0.02\u20ac \u00e9coParticipation",
+                                "unitOfMeasure": "",
+                                "perUnit": "",
+                                "perUnitLabel": ""
+                              },
+                              "ordering": {
+                                "min": 1,
+                                "step": 1,
+                                "max": 20
+                              },
+                              "offerServiceId": "A1QD-151-4000",
+                              "highlightLabel": null,
+                              "freshness": null,
+                              "marketplace": null,
+                              "ean": "3614611474838",
+                              "promotion": null,
+                              "promotions": [],
+                              "variableWeight": false,
+                              "expressWithdrawalEligibility": {
+                                "global": false,
+                                "inCurrentStore": false
+                              },
+                              "isNonFoodDelivery": true,
+                              "isRelayPointEligible": false,
+                              "description": null,
+                              "shopReturnPolicy": null,
+                              "bundle": {
+                                "label": null
+                              },
+                              "isNew": false,
+                              "isInnovation": false,
+                              "isAlternativeCheaper": false,
+                              "isDigitalCard": false,
+                              "isWholesale": false
+                            },
+                            "meta": {
+                              "cta": "buy"
+                            },
+                            "links": {
+                              "self": ""
+                            }
+                          }
+                        }
+                      },
+                      "packaging": "le c\u00e2ble USB",
+                      "isExpressWithdrawal": true,
+                      "customerReviews": {
+                        "average": null,
+                        "count": null,
+                        "rates": null
+                      },
+                      "variants": [],
+                      "weightsAndMeasures": []
+                    },
+                    "relationships": {
+                      "substitution": null
+                    },
+                    "meta": {
+                      "recommendation": null,
+                      "cta": "buy",
+                      "features": {
+                        "deletable": false,
+                        "swap": false,
+                        "feedback": false,
+                        "freshness": true
+                      }
+                    },
+                    "links": {
+                      "self": "\/p\/cable-usb-psusbc2-1-blanc-poss-3614611474838",
+                      "reviews": "\/product\/3614611474838\/reviews"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "id": "product-4548736101487",
+                    "attributes": {
+                      "ean": "4548736101487",
+                      "cdbase": "7261392",
+                      "title": "Casque arceau  Bluetooth sans fil avec micro int\u00e9gr\u00e9 - SON-WHCH5-CASQUE BT BLANC SONY",
+                      "brand": null,
+                      "slug": "casque-arceau-bluetooth-sans-fil-avec-micro-integre-son-whch5-casque-bt-blanc-sony",
+                      "businessType": "non-food",
+                      "offerServiceId": "A1QD-151-4000",
+                      "uri": "image-son\/casques-ecouteurs\/ecouteurs",
+                      "categories": [
+                        {
+                          "id": "26019",
+                          "code": "R29",
+                          "slug": "image-son",
+                          "label": "Image et Son",
+                          "uri": "image-son",
+                          "type": "RAYON",
+                          "level": 1,
+                          "sellerId": null
+                        },
+                        {
+                          "id": "26260",
+                          "code": "R29F07",
+                          "slug": "casques-ecouteurs",
+                          "label": "Casque et Ecouteurs",
+                          "uri": "image-son\/casques-ecouteurs",
+                          "type": "RAYON",
+                          "level": 2,
+                          "sellerId": null
+                        },
+                        {
+                          "id": "26504",
+                          "code": "R29F07SF04",
+                          "slug": "ecouteurs",
+                          "label": "Ecouteurs ",
+                          "uri": "image-son\/casques-ecouteurs\/ecouteurs",
+                          "type": "RAYON",
+                          "level": 3,
+                          "sellerId": null
+                        }
+                      ],
+                      "topCategoryName": "Image et Son",
+                      "images": {
+                        "formats": {
+                          "largest": "540x540",
+                          "common": [
+                            "43x43",
+                            "200x200",
+                            "540x540",
+                            "1500x1500"
+                          ]
+                        },
+                        "paths": [
+                          "https:\/\/media.carrefour.fr\/medias\/90cd83e1c36735239483eeb7caada2bf\/p_FORMAT\/4548736101487-photosite-20210603-171914-0.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/2ce76505ce8e38c9927180fd75ead9b8\/p_FORMAT\/4548736101487-photosite-20210603-171914-1.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/d41dc31126a33b8f9506167f6b3f0d30\/p_FORMAT\/4548736101487-photosite-20210603-171914-2.jpg",
+                          "https:\/\/media.carrefour.fr\/medias\/7bcb2c3dfb4f35ad9cbd95301bf28e20\/p_FORMAT\/4548736101487-photosite-20210603-171914-3.jpg"
+                        ]
+                      },
+                      "isDonation": false,
+                      "isBestSeller": false,
+                      "traceability": null,
+                      "keyFeatures": [],
+                      "moreOffers": {
+                        "count": 0,
+                        "bestOfferId": null,
+                        "bestOfferPrice": null,
+                        "hasNonFoodDeliveryOffer": false,
+                        "withdrawalDelivery": {
+                          "exists": false,
+                          "expressWithdrawalEligibility": {
+                            "global": false,
+                            "inCurrentStore": false
+                          }
+                        },
+                        "hasCarrefourPlus": false
+                      },
+                      "offers": {
+                        "4548736101487": {
+                          "A1QD-151-4000": {
+                            "type": "offer",
+                            "subType": "carrefour",
+                            "id": "A1QD-151-4000",
+                            "attributes": {
+                              "availability": {
+                                "indispensable": false,
+                                "purchasable": true,
+                                "stopped": false,
+                                "suspended": false,
+                                "suspensionReason": null
+                              },
+                              "preorder": null,
+                              "price": {
+                                "price": 49.99,
+                                "taxMessage": "Dont 0.02\u20ac \u00e9coParticipation",
+                                "unitOfMeasure": "",
+                                "perUnit": "",
+                                "perUnitLabel": ""
+                              },
+                              "ordering": {
+                                "min": 1,
+                                "step": 1,
+                                "max": 20
+                              },
+                              "offerServiceId": "A1QD-151-4000",
+                              "highlightLabel": null,
+                              "freshness": null,
+                              "marketplace": null,
+                              "ean": "4548736101487",
+                              "promotion": null,
+                              "promotions": [],
+                              "variableWeight": false,
+                              "expressWithdrawalEligibility": {
+                                "global": false,
+                                "inCurrentStore": false
+                              },
+                              "isNonFoodDelivery": true,
+                              "isRelayPointEligible": false,
+                              "description": null,
+                              "shopReturnPolicy": null,
+                              "bundle": {
+                                "label": null
+                              },
+                              "isNew": false,
+                              "isInnovation": false,
+                              "isAlternativeCheaper": false,
+                              "isDigitalCard": false,
+                              "isWholesale": false
+                            },
+                            "meta": {
+                              "cta": "buy"
+                            },
+                            "links": {
+                              "self": ""
+                            }
+                          }
+                        }
+                      },
+                      "packaging": "le casque",
+                      "isExpressWithdrawal": true,
+                      "customerReviews": {
+                        "average": null,
+                        "count": null,
+                        "rates": null
+                      },
+                      "variants": [],
+                      "weightsAndMeasures": []
+                    },
+                    "relationships": {
+                      "substitution": null
+                    },
+                    "meta": {
+                      "recommendation": null,
+                      "cta": "buy",
+                      "features": {
+                        "deletable": false,
+                        "swap": false,
+                        "feedback": false,
+                        "freshness": true
+                      }
+                    },
+                    "links": {
+                      "self": "\/p\/casque-arceau-bluetooth-sans-fil-avec-micro-integre-son-whch5-casque-bt-blanc-sony-4548736101487",
+                      "reviews": "\/product\/4548736101487\/reviews"
+                    }
+                  }
+                ]
+              },
+              "cta": {
+                "uri": "\/boutique\/bons-plans-high-tech-maison",
+                "title": "J'en profite",
+                "target": "_blank",
+                "cta_display_mode": "primary"
+              },
+              "isAdvertisingEnabled": true,
+              "weight": null,
+              "backgroundColor": "#1d3d91",
+              "countdown": null,
+              "flag": null,
+              "textColor": "white",
+              "queryId": "query_4"
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "58613",
+          "weight": 9,
+          "blocks": [
+            {
+              "templateId": "Hub",
+              "title": "Vos achats en magasin",
+              "design": "hub_1",
+              "columnNumbers": 3,
+              "blocks": [
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "640_1.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%207.png?itok=58c6gB0Q",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%207.png?itok=58c6gB0Q",
+                      "alt": "a",
+                      "width": "810",
+                      "height": "358"
+                    }
+                  },
+                  "imageMobile": null,
+                  "cta": {
+                    "uri": "\/magasin",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 0
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "640_1 copie.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%208.png?itok=dxfyEl6O",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%208.png?itok=dxfyEl6O",
+                      "alt": "8",
+                      "width": "810",
+                      "height": "358"
+                    }
+                  },
+                  "imageMobile": null,
+                  "cta": {
+                    "uri": "\/mes-promos",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 1
+                },
+                {
+                  "templateId": "HubComponent",
+                  "title": null,
+                  "description": null,
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "640_1 copie 2.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%209.png?itok=z7S72WSL",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%209.png?itok=z7S72WSL",
+                      "alt": "9",
+                      "width": "810",
+                      "height": "358"
+                    }
+                  },
+                  "imageMobile": null,
+                  "cta": {
+                    "uri": "\/catalogue",
+                    "title": "",
+                    "target": "_self"
+                  },
+                  "weight": 2
+                }
+              ],
+              "isAdvertisingEnabled": null,
+              "gamEnabled": false,
+              "gamId": null,
+              "textAlign": "center",
+              "weight": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z5_mea",
+          "zone_id": "58615",
+          "weight": 11,
+          "blocks": [
+            {
+              "templateId": "Highlight",
+              "title": "Nos top rayons",
+              "blocks": [
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Soldes jusqu\u2019\u00e0 -70%",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/soldes_0.png?itok=ukNIcv4I",
+                      "uri": "\/public\/2023-03\/soldes_0.png?itok=ukNIcv4I",
+                      "alt": "Soldes",
+                      "width": "170",
+                      "height": "170"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": "jusqu\u2019\u00e0",
+                  "discount": "-70%",
+                  "discountSuffix": null,
+                  "discountDesign": "default",
+                  "weight": 0
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Fruits et l\u00e9gumes",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone - Clone - Clone - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2011.png?itok=vxIOijK3",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2011.png?itok=vxIOijK3",
+                      "alt": "2",
+                      "width": "321",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 1
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Sal\u00e9",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone - Clone - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2012.png?itok=ItlD9LgL",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2012.png?itok=ItlD9LgL",
+                      "alt": "3",
+                      "width": "321",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 2
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Entretien",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2013%20-%202.png?itok=dcQKU5k8",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2013%20-%202.png?itok=dcQKU5k8",
+                      "alt": "Entretien",
+                      "width": "321",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 3
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Viandes et poissons",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2014.png?itok=pn9TeMkF",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2014.png?itok=pn9TeMkF",
+                      "alt": "5",
+                      "width": "321",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 4
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Sucr\u00e9",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2015.png?itok=QR4TxbNw",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2015.png?itok=QR4TxbNw",
+                      "alt": "6",
+                      "width": "320",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 5
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Meubles de maison",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2016.png?itok=HbVbFSFI",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2016.png?itok=HbVbFSFI",
+                      "alt": "7",
+                      "width": "320",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 6
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Smartphone & Iphone",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2017.png?itok=Ioc0LHTt",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2017.png?itok=Ioc0LHTt",
+                      "alt": "8",
+                      "width": "320",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 7
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Jeux vid\u00e9o",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2018.png?itok=ZFJBZn9A",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2018.png?itok=ZFJBZn9A",
+                      "alt": "9",
+                      "width": "320",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 8
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Ordinateurs",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2019.png?itok=E9Gj5CrS",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2019.png?itok=E9Gj5CrS",
+                      "alt": "10",
+                      "width": "320",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 9
+                },
+                {
+                  "templateId": "HighlightComponent",
+                  "title": "Electrom\u00e9nager",
+                  "image": {
+                    "template_id": "m1_image",
+                    "title": "calculatrice.jpg - Clone - Clone",
+                    "image": {
+                      "url": "https:\/\/static-cms-sint.one.carrefour.com\/sites\/default\/files\/2023-03\/Pasted%20Graphic%2020.png?itok=Rgfc4l4Z",
+                      "uri": "\/public\/2023-03\/Pasted%20Graphic%2020.png?itok=Rgfc4l4Z",
+                      "alt": "11",
+                      "width": "320",
+                      "height": "320"
+                    }
+                  },
+                  "link": null,
+                  "discountPrefix": null,
+                  "discount": null,
+                  "discountSuffix": null,
+                  "discountDesign": null,
+                  "weight": 10
+                }
+              ],
+              "weight": null,
+              "displayMode": "bubble",
+              "format": "small",
+              "shopUrl": null,
+              "titleAlign": "center",
+              "cta": null
+            }
+          ]
+        },
+        {
+          "zone_bundle": "z4_content",
+          "zone_id": "59475",
+          "weight": 12,
+          "blocks": [
+            {
+              "templateId": "AdvertisingBlock",
+              "contentId": "59474",
+              "adPlacement": "bottom",
+              "weight": null
+            }
+          ]
+        }
+      ],
+      "slug": "",
+      "hasPromotions": true,
+      "returningPush": {
+        "type": "returningPush",
+        "id": "pe13_returning_push",
+        "attributes": {
+          "templateId": "pe13_returning_push",
+          "title": null,
+          "description": "<p>de remise imm\u00e9diate d\u00e8s 90\u20ac d'achat avec le code <strong>LIVRAISON20<\/strong>.<\/p>\n",
+          "cta": null,
+          "flag": null,
+          "image": null,
+          "design": "promo_code",
+          "countdown": null,
+          "legalMentions": "<p>Pour une commande livr\u00e9e chez vous du 15 au 21 mai 2023.<br \/><a href=\"\/services\/livraison-domicile\/bon-achat\/LIVRAISON20\">Voir modalit\u00e9s<\/a>.<\/p>\n",
+          "promoCode": "LIVRAISON20",
+          "offer": "20\u20ac",
+          "offerSuffix": null
+        }
+      },
+      "returningPushNonFood": {
+        "type": "returningPush",
+        "id": "pe13_returning_push",
+        "attributes": {
+          "templateId": "pe13_returning_push",
+          "title": null,
+          "description": "<p>sur votre compte fid\u00e9lit\u00e9 <strong>d\u00e8s 120\u20ac d'achat<\/strong> avec le code <strong>S1DRIVE15<\/strong><\/p>\n",
+          "cta": null,
+          "flag": null,
+          "image": null,
+          "design": "promo_code",
+          "countdown": 1685484000,
+          "legalMentions": "<p>Pour des retraits le 6 ou 7 janvier.<br \/><a href=\"\/services\/drive\/bon-achat\/S1DRIVE15\">Voir modalit\u00e9s<\/a>.<\/p>\n",
+          "promoCode": "S1DRIVE15",
+          "offer": "15\u20ac",
+          "offerSuffix": "d'\u00e9conomies"
+        }
+      }
+    }
+  },
+  "meta": {
+    "breadcrumb": null,
+    "tags": {
+      "title": "Une large s\u00e9lection de produits au meilleur prix avec Carrefour",
+      "robots": "index, follow",
+      "description": "Retrouvez tous les bons plans Carrefour, la s\u00e9lection Rue du Commerce, les services en ligne et en magasin : Catalogues, Drive, Ooshop, Deal du Jour, l'app Carrefour&moi",
+      "og_type": "article",
+      "twitter_cards_type": "summary_large_image",
+      "canonical_url": "https:\/\/www.carrefour.fr",
+      "og_description": "Retrouvez tous les bons plans Carrefour, la s\u00e9lection Rue du Commerce, les services en ligne et en magasin : Catalogues, Drive, Ooshop, Deal du Jour, l'app Carrefour&moi",
+      "og_site_name": "Carrefour.fr",
+      "og_title": "Page d'accueil",
+      "og_url": "https:\/\/www.carrefour.fr",
+      "twitter_cards_title": "Une large s\u00e9lection de produits au meilleur prix avec Carrefour",
+      "twitter_cards_page_url": "https:\/\/www.carrefour.fr",
+      "twitter_cards_description": "Retrouvez tous les bons plans Carrefour, la s\u00e9lection Rue du Commerce, les services en ligne et en magasin : Catalogues, Drive, Ooshop, Deal du Jour, l'app Carrefour&moi",
+      "twitter_cards_site": "@CarrefourFrance"
+    },
+    "universe": "prehome",
+    "links": {
+      "marques": "\/marques",
+      "fid": "\/services\/carte-carrefour",
+      "myShoppingList": "\/api\/shopping-lists\/favorite",
+      "contactLink": "\/services\/nous-contacter",
+      "freeDeliveryLink": "\/services\/livraison-domicile\/gratuite-commandes",
+      "freshnessGuaranteeLink": "\/edito\/garantie-gout-fraicheur",
+      "zeroMissingGuaranteeLink": "\/services\/drive\/garantie-zero-manquant"
+    }
+  },
+  "global": {
+    "accountActivationEmail": {
+      "enabled": false
+    },
+    "sidebar": [],
+    "advertising": {
+      "criteo": {
+        "placement": {
+          "homepage": [
+            "SC",
+            "FS",
+            "sponsored_products",
+            "DP",
+            "custom_minibanner"
+          ],
+          "homepage_food": [
+            "SC",
+            "FS",
+            "sponsored_products",
+            "DP",
+            "custom_minibanner"
+          ],
+          "plp": [
+            "sponsored_products",
+            "BF",
+            "FS",
+            "IAB",
+            "DP",
+            "ST",
+            "custom_shelftalkeranimco"
+          ],
+          "srp": [
+            "sponsored_products",
+            "BF",
+            "SC",
+            "IAB",
+            "ST",
+            "FS",
+            "custom_shelftalkeranimco"
+          ],
+          "pdp": [
+            "sponsored_products"
+          ],
+          "basket": [
+            "sponsored_products"
+          ],
+          "catalog": [
+            "ST"
+          ],
+          "inside_catalog": [
+            "ST"
+          ],
+          "store": [
+            "iab_leaderboard",
+            "iab_medium_rectangle"
+          ]
+        }
+      }
+    },
+    "cloudflare": {
+      "token": ""
+    },
+    "countriesList": [
+      "CH",
+      "LU",
+      "NL",
+      "DE",
+      "MC",
+      "AD",
+      "FR",
+      "IT",
+      "BE",
+      "ES"
+    ],
+    "donation": {
+      "enabled": false
+    },
+    "features": {
+      "use_carto_crt": true,
+      "use_carto_locator_v2": true,
+      "ssr": true,
+      "forward_ssr_headers_to_client": true,
+      "contextualize_by_universe": true,
+      "marketplace": true,
+      "use_starting_price": true,
+      "hydrate_product_with_nav": true,
+      "allergobox": true,
+      "remove_incontournables": false,
+      "display_hybrid_plp": true,
+      "hybrid_plp_cache": true,
+      "request_sch_no_pretty_print": false,
+      "show_search_redirect_notification": false,
+      "use_color_facet": true,
+      "use_indexed_facet": true,
+      "use_price_facet": true,
+      "display_horizontal_facets": true,
+      "use_optimised_images_payload": true,
+      "send_customer_id_to_search": true,
+      "send_customer_id_to_search_on_plp": true,
+      "send_customer_id_to_autocomplete": true,
+      "sbs_v2_with_products": true,
+      "display_frequentpurchases_navlink": true,
+      "show_mixable_products": true,
+      "show_store_hub_promo": true,
+      "show_hub_promo": true,
+      "use_omnicoupon": true,
+      "show_mixing_products": true,
+      "allow_pre_order_order_history": true,
+      "use_offline_generated_invoice": true,
+      "display_postpone_drive_clcv": true,
+      "use_marketplace_thread": true,
+      "stores_with_express_pickup": true,
+      "checkout_has_new_validation_step_ui": true,
+      "allow_checkout_order_split": true,
+      "allow_missing_substitution": true,
+      "allow_alternative_basket_act_for_food": true,
+      "allow_alternative_basket_promo": true,
+      "allow_incomplete_mixed_lot_display": true,
+      "show_fly_menu": true,
+      "show_eligibility_home_page": true,
+      "display_channel_switch_express_delivery": true,
+      "allow_external_express_delivery": true,
+      "show_bulk_purchase": true,
+      "find_by_postcode_and_city_enabled": true,
+      "find_by_gps_coordinates_enabled": true,
+      "queue_it": false,
+      "datadome": false,
+      "criteo": true,
+      "anonymize_criteo": true,
+      "hide_prix_imbattable": true,
+      "show_quick_basket_builder": true,
+      "show_my_products_dashboard": true,
+      "enable_memo_to_basket": true,
+      "use_multi_lists": true,
+      "show_drive_order_pickup": true,
+      "display_non_food_pdp_header": true,
+      "display_non_food_pdp_characteristics": true,
+      "display_product_key_features": true,
+      "display_offer_locator": true,
+      "display_non_food_plp": true,
+      "display_non_food_srp": true,
+      "use_customer_review": true,
+      "display_full_customer_review": true,
+      "use_product_variant": true,
+      "use_relay_point_eligibility": true,
+      "use_target2sell_pdp_reco": true,
+      "use_demoup_script": true,
+      "merge_loyalty_cards": true,
+      "display_non_food_homepage": true,
+      "use_non_food_delivery": true,
+      "display_variable_weight": true,
+      "autocomplete_address_with_dqe": true,
+      "display_data_valo_popin": true,
+      "display_next_purchase": true,
+      "shortcut_payment": true,
+      "display_bundle": true,
+      "display_user_subscriptions_pages": true,
+      "use_shipping_delivery_days": true,
+      "mini_basket_inflation_challenge": true,
+      "use_drive_order_pickup_v2": false,
+      "use_product_carousel_lazy_loading": true,
+      "display_alternative_slots": true,
+      "display_alternative_slots_drive": false,
+      "enhanced_geolocation": true,
+      "enhanced_geolocation_drive": true,
+      "use_anti_inflation": true,
+      "display_olympic_games_logo": true,
+      "use_ssr_editorial": true,
+      "use_ssr_event-page": true,
+      "enable_homepage_preview": true,
+      "use_cloudflare_turnstile": true,
+      "use_ssr_checkout-unified": true,
+      "use_ssr_checkout-unified-confirmation": false,
+      "display_carfuel_zipcode_popin": true,
+      "use_ssr_store-locator": true,
+      "use_ssr_home-delivery-page": true,
+      "use_ssr_loyalty-attach-card-page": true,
+      "use_ssr_loyalty-change-secret-page": true,
+      "use_ssr_loyalty-history-page": true,
+      "use_ssr_loyalty-merge-accounts": true,
+      "use_ssr_loyalty-primes-page": true,
+      "use_ssr_loyalty-registration": true,
+      "use_ssr_loyalty-secure-card-page": true,
+      "use_ssr_user-coupons-page": true,
+      "use_store_shopping_lists": true,
+      "hide_store_shopping_lists_on_catalog": true,
+      "use_ssr_additional-order-onboarding-page": true,
+      "use_ssr_additional-order-main-page": true,
+      "use_ssr_additional-order-search-page": true,
+      "display_digital_card_product": true,
+      "force_mock_fid_on_reco": false,
+      "display_footer_sticky_banner": true,
+      "domestic_fuel_checkout": true,
+      "enable_domestic_fuel_payment_on_delivery": true,
+      "use_ssr_product-detail-page": true,
+      "use_ssr_order-again-page": true,
+      "use_ssr_order-refund-page": true,
+      "use_ssr_online-order-detail-page": true,
+      "use_ssr_offline-order-detail-page": true,
+      "use_ssr_marketplace-contact-page": true,
+      "use_product_card_autocomplete": true,
+      "show_carrefour_community": true,
+      "use_ssr_store-page": true,
+      "use_ssr_store-page-drive": true,
+      "use_ssr_store-news-page": true,
+      "use_ssr_registration-page": true,
+      "new_confirmation_page": true,
+      "display_homepage_last_order": true,
+      "display_hubpromo_digital_sticker_banner": false,
+      "display_prehome": true,
+      "use_ssr_store-detail": true,
+      "use_ssr_marketing-data-preferences-page": true,
+      "use_ssr_wallet-management": true,
+      "use_ssr_shopping-list-summary-page": true,
+      "use_ssr_shopping-list-item-page": true,
+      "use_ssr_last-orders-page": true,
+      "use_ssr_frequent-list-page": true,
+      "use_ssr_search-with-list-page": true,
+      "use_ssr_promotions": true,
+      "use_ssr_faq-home-page-smart-tribune": true,
+      "use_ssr_catalog-list-landing": true,
+      "use_ssr_drive-order-pickup-page": true,
+      "use_ssr_catalog-landing": true,
+      "display_new_loyalty_dashboard": true,
+      "enable_account_registration_otp": true,
+      "use_ssr_exceptional-opening-hours": true,
+      "use_ssr_product-listing-page": true,
+      "use_aristid_catalog": false,
+      "channel_switch_map_enabled": true,
+      "enable_gsi_registration": true,
+      "use_ecatalog": false,
+      "use_midfid_endpoints_v2": true,
+      "use_ssr_search-results": false,
+      "display_new_header": true,
+      "use_onechat": true,
+      "allow_account_dissociation": true,
+      "display_pdp_post_add_to_cart_popin": false,
+      "use_extended_warranty": false,
+      "display_subscription_in_checkout": false
+    },
+    "flagConfiguration": {
+      "enableStoreConflict": true
+    },
+    "footer": {
+      "data": {
+        "type": "footerResponse",
+        "id": "",
+        "attributes": {
+          "links": [
+            {
+              "title": "En ce moment",
+              "children": [
+                {
+                  "title": "Promotions",
+                  "link": {
+                    "uri": "\/promotions"
+                  }
+                },
+                {
+                  "title": "Primes Fid\u00e9lit\u00e9",
+                  "link": {
+                    "uri": "\/services\/carte-carrefour\/primes"
+                  }
+                },
+                {
+                  "title": "30 produits essentiels",
+                  "link": {
+                    "uri": "\/boutique\/panier-anti-inflation"
+                  }
+                },
+                {
+                  "title": "Jouets de No\u00ebl 2022",
+                  "link": {
+                    "uri": "\/evenements\/jouets-noel",
+                    "target": "_self"
+                  }
+                },
+                {
+                  "title": "Halloween",
+                  "link": {
+                    "uri": "\/evenements\/halloween",
+                    "target": "_self"
+                  }
+                },
+                {
+                  "title": "Jouets en carton",
+                  "link": {
+                    "uri": "\/edito\/les-incroyables\/jouets-en-carton",
+                    "target": "_self"
+                  }
+                },
+                {
+                  "title": "Pok\u00e9mon Ecarlate et Violet",
+                  "link": {
+                    "uri": "\/jeux-consoles\/pokemon-ecarlate-violet",
+                    "target": "_self"
+                  }
+                },
+                {
+                  "title": "FIFA 23",
+                  "link": {
+                    "uri": "\/jeux-consoles\/fifa-23"
+                  }
+                },
+                {
+                  "title": "PlayStation 5",
+                  "link": {
+                    "uri": "\/jeux-consoles\/playstation-5"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Nos services",
+              "children": [
+                {
+                  "title": "Carrefour Drive",
+                  "link": {
+                    "uri": "\/services\/drive"
+                  }
+                },
+                {
+                  "title": "Livraison \u00e0 Domicile",
+                  "link": {
+                    "uri": "\/services\/livraison-domicile"
+                  }
+                },
+                {
+                  "title": "Drive Pi\u00e9ton",
+                  "link": {
+                    "uri": "\/services\/drive\/pieton"
+                  }
+                },
+                {
+                  "title": "Livraison Express",
+                  "link": {
+                    "uri": "\/services\/livraison-express"
+                  }
+                },
+                {
+                  "title": "Traiteur en ligne",
+                  "link": {
+                    "uri": "\/services\/traiteur-en-ligne"
+                  }
+                },
+                {
+                  "title": "Carte de Fid\u00e9lit\u00e9",
+                  "link": {
+                    "uri": "\/services\/carte-carrefour"
+                  }
+                },
+                {
+                  "title": "Carte PASS",
+                  "link": {
+                    "uri": "\/services\/carte-pass"
+                  }
+                },
+                {
+                  "title": "Fioul Domestique",
+                  "link": {
+                    "uri": "\/services\/fioul-domestique"
+                  }
+                },
+                {
+                  "title": "Carrefour Abonnement",
+                  "link": {
+                    "uri": "https:\/\/abonnement.carrefour.fr\/",
+                    "target": "_self"
+                  }
+                },
+                {
+                  "title": "Carrefour Occasion",
+                  "link": {
+                    "uri": "\/services\/carrefour-occasion",
+                    "target": "_self"
+                  }
+                },
+                {
+                  "title": "Tous les services",
+                  "link": {
+                    "uri": "\/services"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Nos enseignes",
+              "children": [
+                {
+                  "title": "Hypermarch\u00e9s",
+                  "link": {
+                    "uri": "\/enseignes\/hyper"
+                  }
+                },
+                {
+                  "title": "Carrefour Market",
+                  "link": {
+                    "uri": "\/enseignes\/market"
+                  }
+                },
+                {
+                  "title": "Carrefour City",
+                  "link": {
+                    "uri": "\/enseignes\/city"
+                  }
+                },
+                {
+                  "title": "Carrefour Express",
+                  "link": {
+                    "uri": "\/enseignes\/express"
+                  }
+                },
+                {
+                  "title": "Carrefour Contact",
+                  "link": {
+                    "uri": "\/enseignes\/contact"
+                  }
+                },
+                {
+                  "title": "Carrefour Bio",
+                  "link": {
+                    "uri": "\/enseignes\/bio"
+                  }
+                },
+                {
+                  "title": "Carrefour Montagne",
+                  "link": {
+                    "uri": "\/enseignes\/montagne"
+                  }
+                },
+                {
+                  "title": "Bon app'",
+                  "link": {
+                    "uri": "\/enseignes\/bonapp"
+                  }
+                },
+                {
+                  "title": "Toutes les enseignes",
+                  "link": {
+                    "uri": "\/enseignes"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Nos offres",
+              "children": [
+                {
+                  "title": "Jeux Concours",
+                  "link": {
+                    "uri": "\/jeux-concours"
+                  }
+                },
+                {
+                  "title": "Campagnes TV",
+                  "link": {
+                    "uri": "\/evenements\/campagnes-tv"
+                  }
+                },
+                {
+                  "title": "Fili\u00e8re Qualit\u00e9 Carrefour",
+                  "link": {
+                    "uri": "\/marques\/filiere-qualite-carrefour"
+                  }
+                },
+                {
+                  "title": "Reflets de France",
+                  "link": {
+                    "uri": "\/marques\/reflets-de-france"
+                  }
+                },
+                {
+                  "title": "Carrefour Baby",
+                  "link": {
+                    "uri": "\/marques\/baby"
+                  }
+                },
+                {
+                  "title": "Carrefour Veggie",
+                  "link": {
+                    "uri": "\/marques\/veggie"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Vos donn\u00e9es",
+              "link": {
+                "uri": "\/articles\/gestion-donnees-personnelles"
+              },
+              "children": [
+                {
+                  "title": "Politique sur les cookies",
+                  "link": {
+                    "uri": "\/cookies"
+                  }
+                },
+                {
+                  "title": "Param\u00e9trer vos cookies",
+                  "link": {
+                    "uri": "#show-privacy-center"
+                  }
+                },
+                {
+                  "title": "Politique de protection des \u2028donn\u00e9es personnelles",
+                  "link": {
+                    "uri": "\/articles\/politique-generale-protection-donnees-personnelles"
+                  }
+                },
+                {
+                  "title": "G\u00e9rer vos donn\u00e9es personnelles",
+                  "link": {
+                    "uri": "\/articles\/gestion-donnees-personnelles"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Carrefour.fr",
+              "children": [
+                {
+                  "title": "CGV",
+                  "link": {
+                    "uri": "\/conditions-generales-ventes"
+                  }
+                },
+                {
+                  "title": "CGU Marketplace",
+                  "link": {
+                    "uri": "\/conditions-generales-utilisation-marketplace"
+                  }
+                },
+                {
+                  "title": "Mentions l\u00e9gales",
+                  "link": {
+                    "uri": "\/mentions-legales"
+                  }
+                },
+                {
+                  "title": "CG carte Carrefour",
+                  "link": {
+                    "uri": "services\/carte-carrefour\/conditions-generales"
+                  }
+                },
+                {
+                  "title": "Carrefour recrute",
+                  "link": {
+                    "uri": "https:\/\/recrute.carrefour.fr\/"
+                  }
+                },
+                {
+                  "title": "Accessibilit\u00e9 : partiellement conforme",
+                  "link": {
+                    "uri": "\/engagements\/accessibilite"
+                  }
+                },
+                {
+                  "title": "Alerte de s\u00e9curit\u00e9",
+                  "link": {
+                    "uri": "\/securite"
+                  }
+                },
+                {
+                  "title": "Pi\u00e8ces d\u00e9tach\u00e9es",
+                  "link": {
+                    "uri": "\/pieces-detachees"
+                  }
+                },
+                {
+                  "title": "Rappel produits",
+                  "link": {
+                    "uri": "\/rappel-produits"
+                  }
+                },
+                {
+                  "title": "Magasins",
+                  "link": {
+                    "uri": "\/magasin\/liste"
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Vous informer",
+              "children": [
+                {
+                  "title": "Aide & Contact",
+                  "link": {
+                    "uri": "\/services\/nous-contacter"
+                  }
+                },
+                {
+                  "title": "Acc\u00e8s malentendants",
+                  "link": {
+                    "uri": "\/services\/accessibilite-sourds-et-malentendants"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "fuelVolume": {
+      "minFuelVolume": "300",
+      "maxFuelVolume": "10000"
+    },
+    "indexedFacet": {
+      "prefix": "+",
+      "separator": ","
+    },
+    "informationInserts": [],
+    "linkPreload": {
+      "dns_prefetch": [],
+      "preconnect": [
+        "https:\/\/media-sint.one.carrefour.com",
+        "https:\/\/static-cms-sint.one.carrefour.com",
+        "https:\/\/cdn.tagcommander.com"
+      ],
+      "prefetch": [],
+      "preload": []
+    },
+    "links": {
+      "search": "\/s",
+      "autocomplete": "\/autocomplete",
+      "promotions": "\/promotions",
+      "nonFoodPromotionsPage": "\/boutique\/bons-plans-high-tech-maison",
+      "inflationChallenge": "\/boutique\/defi-anti-inflation",
+      "navigationIndex": "\/navigation",
+      "navigation": "\/navigation",
+      "recommendationZones": "\/api\/v1\/recommendations",
+      "login": "\/mon-compte\/login",
+      "logout": "\/logout",
+      "register": "\/mon-compte\/inscription",
+      "myAccount": "\/mon-compte",
+      "userDetails": "\/mon-compte\/informations",
+      "userIdentifiersPage": "\/mon-compte\/identifiants",
+      "userContactInfosPage": "\/mon-compte\/coordonnees",
+      "userApiMe": "\/api\/me",
+      "storeLocator": "\/magasin",
+      "catalog": "\/catalogue",
+      "shoppingListPage": "\/mon-compte\/listes\/:slug",
+      "shoppingListApi": "\/api\/shopping-lists\/:slug",
+      "shoppingListApiById": "\/api\/shopping-lists-id\/:id",
+      "shoppingListsSummaryPage": "\/mon-compte\/listes",
+      "shoppingListsSummaryApi": "\/api\/shopping-lists",
+      "shoppingFrequentList": "\/mon-compte\/achats-frequents",
+      "shoppingListFavorite": "\/api\/shopping-lists\/favorite",
+      "shoppingListAddSflItem": "\/api\/shopping-lists\/sfl",
+      "shoppingListDeleteSflItem": "\/api\/shopping-lists\/sfl\/:productEan",
+      "shoppingListDeleteSwlItem": "\/api\/shopping-lists\/swl\/:listId",
+      "shoppingListMemoPage": "\/mon-compte\/ma-liste-memos",
+      "shoppingListUpdateProductApi": "\/api\/shopping-lists\/memos\/:listId\/:ean",
+      "shoppingListDeleteProductApi": "\/api\/shopping-lists\/memos\/:listId\/:ean",
+      "shoppingListAddProductSwlItemApi": "\/api\/shopping-lists\/swl\/:listId\/product",
+      "shoppingListsEansApi": "\/api\/shopping-lists-eans",
+      "shoppingListAddMemoItem": "\/api\/shopping-lists\/memos\/:listId",
+      "shoppingListDeleteMemoItem": "\/api\/shopping-lists\/memos\/:listId",
+      "shoppingListAddList": "\/api\/shopping-lists\/memo-list",
+      "shoppingListUpdateList": "\/api\/shopping-lists\/list\/:id",
+      "shoppingListDeleteList": "\/api\/shopping-lists\/list\/:id",
+      "shoppingListLastOrdersPage": "\/mon-compte\/dernieres-commandes",
+      "storeLocatorApi": "\/geoloc",
+      "driveStoreSearch": "\/store\/drive\/search",
+      "storeLocatorZoneCity": "\/magasin\/ville\/inseeCode",
+      "storeLocatorZoneRegion": "\/magasin\/region\/inseeCode",
+      "storeLocatorZoneDepartment": "\/magasin\/departement\/inseeCode",
+      "storeDetails": "\/magasin\/detail",
+      "storeLocatorTypeDrive": "\/magasin\/type\/drive\/slugCity-inseeCode",
+      "storeGetByAnabelKey": "\/magasin\/recherche-par-anabel-key\/anabelKey",
+      "timeslots": "\/api\/timeslots",
+      "firstSlot": "\/api\/firstslot",
+      "homepage": "\/",
+      "foodHomepage": "\/courses",
+      "nonFoodHomepage": "\/shopping",
+      "diagnosis": "\/faq",
+      "mapApi": "AIzaSyDO5OoRa23jk54vnVDfm86xVuByQt2yzpY",
+      "recaptchaKey": "6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI",
+      "woosmapApiKey": "woos-26fe76aa-ff24-3255-b25b-e1bde7b7a683",
+      "slot": "\/api\/cart\/slot",
+      "simulate": "\/api\/cart\/simulate",
+      "cartDriveClcv": "\/cart\/driveclcv",
+      "apiCart": "\/api\/cart",
+      "subBasketSaveForLater": "\/cart\/save-for-later",
+      "attachSlot": "\/api\/cart\/attach-slot",
+      "drugstore": "\/boutique\/parapharmacie",
+      "setStore": "\/set-store\/{ref}",
+      "exceptionalOpenings": "\/magasin\/ouvertures-exceptionnelles",
+      "legal": "\/mentions-legales",
+      "cookies": "\/cookies",
+      "conditionsGeneralesUtilisation": "\/conditions-generales-utilisation",
+      "ourBrands": "\/marques",
+      "loyaltyClubs": "\/services\/carte-carrefour\/primes",
+      "loyaltyPassDiscover": "\/services\/carte-pass",
+      "loyaltyConditions": "\/services\/carte-carrefour\/conditions-generales",
+      "serviceDrive": "\/services\/drive",
+      "serviceDrivePedestrian": "\/services\/drive\/pieton",
+      "serviceClcv": "\/services\/livraison-domicile",
+      "serviceExpressDelivery": "\/services\/livraison-express",
+      "serviceMarketplace": "\/services\/carrefour-marketplace",
+      "contactDirectorsPage": "\/services\/nous-contacter\/direction",
+      "contactCarfuel": "\/services\/nous-contacter\/formulaire\/fioul-domestique",
+      "challengeFid": "\/fidelite\/challenge-fid",
+      "discoverCoupons": "\/services\/carte-carrefour\/coupon-dematerialise",
+      "personalDataProtectionPolicy": "\/articles\/politique-generale-protection-donnees-personnelles",
+      "apiRedressAddress": "\/api\/address\/validate",
+      "apiSaveBillingAddress": "\/api\/address\/facturation",
+      "apiSaveDeliveryAddress": "\/api\/address\/livraison",
+      "updateMobilePhone": "\/api\/user\/my-account\/mobile-phone",
+      "checkConflictAddress": "\/api\/user\/address\/conflict",
+      "editAddress": "\/api\/user\/address\/:address-type",
+      "addAddress": "\/mon-compte\/mes-adresses\/ajouter\/:address-type",
+      "updateAddress": "\/mon-compte\/mes-adresses\/modifier\/:address-type",
+      "formsTokenApi": "\/api\/user\/forms\/getAddressCsrfToken",
+      "self": {
+        "path": "\/"
+      },
+      "backUrl": "https:\/\/carrefour.local\/_profiler\/empty\/search\/results?limit=10",
+      "apiEligibility": "\/api\/eligibility",
+      "customerService": "\/services\/nous-contacter",
+      "apiContactContent": "\/api\/contact\/content\/:serviceId",
+      "helpDeskPage": "\/services\/nous-contacter",
+      "smartAppBannerLink": "https:\/\/carrefour.onelink.me\/1251175874\/4ef319cf",
+      "loyaltyPrimesPartner": "https:\/\/www.orias.fr",
+      "actForFood": "\/engagements\/act-for-food",
+      "cgu": "\/conditions-generales-carte-carrefour",
+      "cguLoyalty": "\/services\/carte-carrefour\/conditions-generales-alt",
+      "rays": "\/r",
+      "cartConflictResolver": "\/api\/cart-conflict-resolver",
+      "cartStoreConflictOptions": "\/api\/cart-conflict-options",
+      "frequentPurchasesOnlineSummary": "\/api\/user\/shopping-lists\/frequent-purchases\/online",
+      "frequentPurchasesOfflineSummary": "\/api\/user\/secured\/loyalty\/shopping-lists\/frequent-purchases\/offline",
+      "frequentPurchasesOnlineItems": "\/api\/user\/shopping-lists\/frequent-purchases\/online\/items",
+      "frequentPurchasesOfflineItems": "\/api\/user\/secured\/loyalty\/shopping-lists\/frequent-purchases\/offline\/items",
+      "apiUpdatePrimes": "\/api\/user\/secured\/loyalty\/primes",
+      "apiGetPrimesData": "\/api\/primes",
+      "primes": "\/mon-compte\/fidelite\/mes-primes",
+      "loyaltyBonusesActive": "\/r?filters%5Bfacet_promotions%5D%5B0%5D=Prime%20March%C3%A9&filters%5Bfacet_promotions%5D%5B1%5D=Prime%20famille&filters%5Bfacet_promotions%5D%5B2%5D=Prime%20bio&filters%5Bfacet_promotions%5D%5B3%5D=Prime%20b%C3%A9b%C3%A9&filters%5Bfacet_promotions%5D%5B4%5D=Prime%20animaux&0=noRedirect%3D0",
+      "orderList": "\/mon-compte\/mes-achats",
+      "loyaltyRegistration": "\/mon-compte\/inscription-fidelite",
+      "loyaltySummary": "\/api\/user\/secured\/loyalty\/balance",
+      "loyaltyTransactionSummary": "\/api\/user\/secured\/loyalty\/balance-transaction",
+      "loyaltyCardAdvantage": "\/services\/carte-carrefour",
+      "loyaltyCardPass": "\/services\/carte-pass",
+      "nutriscoreEditorial": "\/engagements\/nutri-score",
+      "staticMapSigning": "\/static-map-sign",
+      "alertingBanner": "\/api\/alerting-banner",
+      "attachLoyaltyCardPage": "\/mon-compte\/ma-carte",
+      "loyaltyPage": "\/mon-compte\/fidelite",
+      "walletPage": "\/mon-compte\/mes-moyens-de-paiement",
+      "attachLoyaltyCard": "\/api\/user\/attach-loyalty-card",
+      "checkLoyaltyCard": "\/api\/user\/check-loyalty-card",
+      "sendLoyaltyCardOneTimePassword": "\/api\/user\/send-otp-loyalty-card",
+      "checkLoyaltyCardOneTimePassword": "\/api\/user\/check-otp-loyalty-card",
+      "secureLoyaltyCard": "\/api\/user\/loyalty\/secure-loyalty-card",
+      "secureLoyaltyCardPage": "\/mon-compte\/fidelite\/securiser-ma-carte",
+      "setLoyaltyCardSecretCode": "\/api\/user\/loyalty-secret-code",
+      "detachLoyaltyCard": "\/api\/user\/loyalty\/detach-loyalty-card",
+      "getLoyaltyCardMedias": "\/api\/user\/medias-loyalty-card",
+      "activateLoyaltyCard": "\/api\/user\/activate-loyalty-card",
+      "createLoyaltyCard": "\/api\/user\/create-loyalty-card",
+      "mergeLoyaltyCards": "\/mon-compte\/fidelite\/fusion-compte",
+      "storeRegion": "\/evenements\/boutique-region",
+      "orderAgainPage": "\/mon-compte\/mes-achats\/en-ligne\/commander\/:orderNumber",
+      "onlineOrderDetails": "\/mon-compte\/mes-achats\/en-ligne\/:orderNumber",
+      "onlineLastOrder": "\/api\/user\/orders\/last",
+      "getRefundOrderItemsPage": "\/mon-compte\/mes-achats\/remboursement\/:orderNumber",
+      "offlineOrderDetails": "\/mon-compte\/mes-achats\/en-magasin\/:gln\/:date\/:retalixCode\/:orderNumber",
+      "userGenerateInvoicePage": "\/services\/facture\/:idReceipt",
+      "apiUserReceiptInvoice": "\/services\/facture",
+      "apiOnlineOrdersList": "\/api\/user\/orders",
+      "apiOfflineOrders": "\/api\/user\/secured\/loyalty\/orders\/receipts",
+      "apiOnlineOrder": "\/api\/user\/orders\/:orderNumber",
+      "apiOnlineRefunds": "\/api\/user\/orders\/:orderNumber\/refunds",
+      "apiSubstitutions": "\/api\/substitutions",
+      "apiCouponsList": "\/api\/user\/loyalty\/coupon-collection",
+      "apiCouponProducts": "\/api\/user\/loyalty\/coupons\/products\/:couponEan",
+      "apiCouponDetails": "\/api\/user\/loyalty\/coupons\/coupon\/:gtin",
+      "apiCouponStoreList": "\/api\/user\/loyalty\/coupons\/store-list\/:couponEan",
+      "coupons": "\/mon-compte\/fidelite\/mes-coupons",
+      "createOrder": "\/api\/basket\/{serviceId}\/order",
+      "timeSlotFinder": "\/api\/timeslotfinder",
+      "consents": "\/mon-compte\/consentements",
+      "apiStore": "\/stores\/:ref",
+      "changeLoyaltySecretCode": "\/mon-compte\/fidelite\/changer-mon-code-secret",
+      "getCouponsSummary": "\/api\/user\/loyalty\/coupons-dashboard",
+      "getLoyaltyHistory": "\/mon-compte\/fidelite\/historique",
+      "getApiBasketRecommendations": "\/api\/checkout\/recommendations\/:basketServiceId\/:subBasketType",
+      "getApiCustomRecommendations": "\/api\/user\/homepage\/recommendation",
+      "getApiQuickBasketBuilder": "\/api\/basketbuilder\/products",
+      "loyaltyPromotions": "\/promotions?filters%5Bfacet_promotions%5D%5B0%5D=Cagnotte%20fid%C3%A9lit%C3%A9&noRedirect=0",
+      "primesPromotions": "\/promotions?queryId=query_8014&noRedirect=0",
+      "loyaltyCardCgu": "\/api\/loyalty\/cgu",
+      "appleWallet": "\/api\/user\/secured\/loyalty\/apple-wallet",
+      "partnersListPage": "\/v",
+      "marketPlaceCheckout": "\/cart\/marketplace",
+      "expressCheckout": "\/cart\/express",
+      "expressDeliveryCheckout": "\/cart\/express_delivery",
+      "nonFoodDeliveryCheckout": "\/cart\/nonfood-delivery",
+      "preOrderCheckout": "\/cart\/preorder",
+      "checkoutSaveAddress": "\/api\/checkout\/address\/:checkoutType\/:addressType",
+      "checkoutSavePhoneNumber": "\/api\/checkout\/phone\/:checkoutType",
+      "selectShippingType": "\/api\/checkout\/shipping",
+      "checkoutValidateStep": "\/api\/checkout\/:type\/validate\/:step",
+      "tncMarketplace": "\/conditions-generales-utilisation-marketplace",
+      "tnc": "\/conditions-generales-ventes",
+      "tncCarfuel": "\/conditions-generales-ventes-fioul",
+      "tncCarrefourPlus": "\/services\/carte-carrefour\/abonnements\/carrefour-plus\/cgv",
+      "allergoboxEditorial": "\/edito\/consotrust-allergobox",
+      "nonGroceryContactPage": "\/edito\/high-tech-maison-loisirs\/nous-contacter",
+      "apiClearSubBaskets": "\/api\/cart\/clear-subbaskets",
+      "critizrHost": "https:\/\/api.critizr.com\/v2\/",
+      "frequentPurchasesCatalog": "\/achats-frequents",
+      "deleteBasketAnonymous": "\/api\/basket\/anonymous",
+      "oneCarrefourFacebookUrl": "https:\/\/www.facebook.com\/messages\/t\/176105152520900",
+      "oneCarrefourMessengerUrl": "https:\/\/www.messenger.com\/t\/176105152520900",
+      "carrefourFranchise": "https:\/\/franchise.carrefour.com",
+      "olympicGamesUrl": "https:\/\/www.carrefour.com\/fr\/news\/paris2024cp",
+      "searchMandar": "\/r?filters%5Bfacet_marque%5D%5B0%5D=MANDAR",
+      "catalogReservationForm": "\/evenements\/recapitulatif-reservation",
+      "loyaltyBurn": "\/api\/cart\/loyalty-burn",
+      "epayBurn": "\/api\/cart\/epay-burn",
+      "apiValidateEpayCard": "\/api\/checkout\/epay\/validate",
+      "addPromoCode": "\/api\/cart\/promo_code",
+      "removePromoCode": "\/api\/cart\/promo_code\/:promoCode\/:facilityServiceId\/:subBasketType",
+      "estimatePickUpTime": "\/api\/checkout\/express\/estimate-pickup-time\/:facilityServiceId",
+      "apiAdvertising": "\/api\/advertising",
+      "freeDeliveryOrders": "\/services\/livraison-domicile\/gratuite-commandes",
+      "orderSplit": "\/api\/cart\/order-split\/:facilityServiceId",
+      "quickBasketBuilderPage": "\/courses-en-5-min",
+      "driveOrderPickupPage": "\/jesuisla\/:validationData\/:orderNumber",
+      "apiDriveOrderPickupOrderData": "\/api\/driveOrderPickup\/orderData",
+      "apiDriveOrderPickupStation": "\/api\/driveOrderPickup\/validateStation",
+      "quickClcvEligibility": "\/api\/quick-clcv-eligibility",
+      "swap": "\/api\/cart\/swap-product",
+      "donation": "\/donation",
+      "ecoscoreEditorial": "\/engagements\/eco-score",
+      "userApiAddressAutocomplete": "\/api\/address\/autocomplete",
+      "userApiAddressComplement": "\/api\/address\/complement",
+      "faqAcceptedPaymentMethods": "\/faq?question=sont-moyens-paiement-acceptes",
+      "faqLoyaltyAccount": "\/faq?thematic=gere-compte-fidelite",
+      "getProductsByGtins": "\/products",
+      "getProductsByQuery": "\/products\/query\/:queryId",
+      "cancelLoyaltyPayment": "\/api\/cart\/loyalty-cancel",
+      "cancelEpayPayment": "\/api\/cart\/epay-cancel",
+      "nonFoodWebsiteHost": "https:\/\/shopping.carrefour.fr",
+      "productsSubscriptionsWebsiteHost": "https:\/\/abonnement.carrefour.fr",
+      "carrefourBanquePassUrl": "https:\/\/www.carrefour-banque.fr\/carte-pass?utm_source=carrefour&utm_medium=ec&utm_campaign=pass-avantages-fid",
+      "carrefourBanqueSubscriptionUrl": "https:\/\/www.carrefour-banque.fr\/comment-souscrire-pass-en-ligne?utm_source=carrefour&utm_medium=ec&utm_campaign=pass-avantages-fid",
+      "carrefourBanqueLoginUrl": "https:\/\/www.carrefour-banque.fr\/espace-client\/connexion",
+      "carrefourProUrl": "https:\/\/www.pro.carrefour.fr",
+      "allowMissingSubstitution": "\/api\/cart\/allow-missing-substitution\/:facilityServiceId",
+      "payment": "\/cart\/pay",
+      "additionalOrderInitiateFunnel": "\/mon-compte\/mes-achats\/en-ligne\/:orderNumber\/complement",
+      "additionalOrderProductsPage": "\/mon-compte\/mes-achats\/en-ligne\/complement\/liste",
+      "additionalOrderSearchPage": "\/mon-compte\/mes-achats\/en-ligne\/complement\/recherche",
+      "getFavoriteStore": "\/api\/favoritestore",
+      "additionalOrderCheckoutPage": "\/mon-compte\/mes-achats\/en-ligne\/complement\/panier",
+      "apiReturningBanner": "\/api\/homepage\/returningBanner",
+      "apiConsents": "\/api\/user\/my-account\/consents",
+      "consentsFormsTokenApi": "\/api\/user\/forms\/getConsentsCsrfToken",
+      "additionalOrderRecommendations": "\/api\/additional-order\/recommendations",
+      "recommendationSearchList": "\/recherche-liste",
+      "apiKeywordsToProducts": "\/api\/keywords-to-products",
+      "checkEligibility": "\/api\/eligibility\/:type",
+      "alternativeStore": "\/api\/store\/:facilityServiceId\/alternative-store",
+      "apiGetBasketTimeSlots": "\/api\/basket-timeslots",
+      "apiGetBestBasketTimeSlots": "\/api\/best-basket-timeslots",
+      "apiDeleteYieldFees": "\/api\/cart\/:facilityServiceId\/:subBasketType\/yieldfees",
+      "sellerProductsPage": "\/v\/:sellerId",
+      "highlightGridCampaignsApi": "\/api\/highlightGrid\/campaigns",
+      "highlightGridComponentsApi": "\/api\/highlightGrid\/components",
+      "userCouponApiGetCoupons": "\/api\/user\/loyalty\/coupons",
+      "userCouponApiPostCoupons": "\/api\/user\/secured\/loyalty\/coupons",
+      "userCouponApiDeleteCoupons": "\/api\/user\/secured\/loyalty\/coupons",
+      "userCouponApiPrintCoupons": "\/api\/user\/secured\/loyalty\/coupons-print",
+      "deliveryOptions": "\/api\/checkout\/delivery-options\/:facilityServiceId\/:subBasketType",
+      "getAlternativeProducts": "\/api\/checkout\/:facilityServiceId\/:subBasketType\/alternative-products\/:filter",
+      "myProductsDashboard": "\/courses-en-5-min",
+      "myProductsPromotionProductsApi": "\/api\/v1\/my-products\/promotion\/products",
+      "myProductsPromotionProductsPage": "\/courses-en-5-min\/produits-en-promotion",
+      "nextPurchase": "\/api\/next-purchase",
+      "myProductsRecommendationProductsApi": "\/api\/v1\/my-products\/recommendation\/products\/by-list",
+      "myProductsRecommendationProductsList": "\/courses-en-5-min\/:slug",
+      "marketPlaceSellersPage": "\/v",
+      "getMarketplaceThreadList": "\/api\/user\/orders\/marketplace\/threads",
+      "getMarketplaceThread": "\/api\/user\/orders\/marketplace\/threads\/:threadId",
+      "createMarketplaceThread": "\/api\/user\/orders\/marketplace\/threads\/:orderNumber\/:orderSlug",
+      "replyToMarketplaceThread": "\/api\/user\/orders\/marketplace\/threads\/:threadId\/reply",
+      "marketplaceThreadPage": "\/mon-compte\/mes-achats\/marketplace\/:orderNumber\/:orderSlug\/:threadId",
+      "apiGetMyLoyaltyCards": "\/api\/user\/secured\/loyalty\/my-cards",
+      "getPickupPoints": "\/api\/pickup_points",
+      "getPickupPoint": "\/api\/pickup_points\/:type\/:id",
+      "apiInformationInserts": "\/api\/information-insert\/stores\/:ref",
+      "userSubscriptionsPage": "\/mon-compte\/abonnements",
+      "carrefourPlusDashboardPage": "\/mon-compte\/fidelite\/carrefour-plus",
+      "carrefourPlusOnboardingPage": "\/services\/carrefour-plus",
+      "carrefourPlusSummaryApi": "\/api\/user\/secured\/loyalty\/carrefour-plus-subscription",
+      "carrefourPlusHistoryPage": "\/mon-compte\/fidelite\/carrefour-plus\/historique",
+      "carrefourPlusHistoryApi": "\/api\/user\/secured\/loyalty\/carrefour-plus-subscription\/history",
+      "carrefourPlusInitPaymentApi": "\/api\/user\/loyalty\/carrefour-plus-subscription\/init-payment",
+      "carrefourPlusConfirmPaymentApi": "\/api\/user\/loyalty\/carrefour-plus-subscription\/confirm-payment",
+      "carrefourPlusDisableRenewalApi": "\/api\/user\/loyalty\/carrefour-plus-subscription\/disable-automatic-renewal\/:subscriptionId",
+      "carrefourPlusFormsTokenApi": "\/api\/user\/carrefour-plus-subscription\/forms\/getCsrfToken",
+      "subscriptionProductsApi": "\/subscription-products",
+      "getUserAdvantageCodes": "\/api\/advantage-code",
+      "hubPromo": "\/mes-promos",
+      "apiBundle": "\/bundle",
+      "alternativeCheaper": "\/anti-inflation-recommendations\/:product_cdbase",
+      "apiFooterBannerSticky": "\/footer-sticky-banner",
+      "domesticFuelOnboardingPage": "\/services\/fioul-domestique",
+      "domesticFuelCheckoutPage": "\/services\/fioul-domestique\/commande",
+      "hubPromoApiPromotionOnlineProducts": "\/api\/hub-promo\/promotion\/online\/products",
+      "hubPromoApiPromotionOfflineProducts": "\/api\/hub-promo\/promotion\/offline\/products",
+      "carrefourCommunityUrl": "https:\/\/communaute.carrefour.fr",
+      "carrefourDigitalStickerUrl": "http:\/\/www.diffusion-recette.fr\/vignette\/NoAccount",
+      "carrefourAppIosUrl": "https:\/\/apps.apple.com\/fr\/app\/id378305156",
+      "carrefourAppAndroidUrl": "https:\/\/play.google.com\/store\/apps\/details?id=com.carrefour.fid.android&referrer=af_tranid%3Do-U6ax6oF72rcSIn4eLFTA%26pid%3DCarrefour_portal%26c%3DLandingPage&pli=1",
+      "apiUserKpis": "\/api\/user\/my-account\/kpis",
+      "apiAlcoholConsent": "\/api\/checkout\/alcohol-consent",
+      "oneChatHopla": "\/hopla",
+      "catalogHyper": "\/catalogue\/carrefour",
+      "catalogMarket": "\/catalogue\/carrefour-market",
+      "catalogCityContactExpress": "\/catalogue\/carrefour-contact-city-express",
+      "oneChatUrl": "https:\/\/ocb-sint-api.noprd.caas.vpoda3np.carrefour.com\/",
+      "oneChatRecipeIngredients": "\/api\/one-chat\/:sessionId\/recipes\/:productsId\/ingredients",
+      "ecatalogGetProductsByCategory": "\/api\/catalogue\/category-products"
+    },
+    "isMobileApp": {
+      "isMobileApp": false,
+      "mobileAppOs": null
+    },
+    "navigation": {
+      "hasPromotions": true,
+      "tree": [
+        {
+          "name": "category.code.CATALOGUES",
+          "code": "catalogues",
+          "id": "catalogues",
+          "type": "REDIRECTION",
+          "picto": null,
+          "level": 0,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "mixt",
+          "slug": "",
+          "selected": false,
+          "children": null,
+          "layers": "\/navigation\/catalogues\/layers",
+          "link": "\/catalogue"
+        },
+        {
+          "name": "Promotions",
+          "code": "promotions",
+          "id": "promotions",
+          "type": "RAYON",
+          "picto": null,
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "mixt",
+          "slug": "",
+          "selected": false,
+          "children": [],
+          "link": "\/promotions"
+        },
+        {
+          "name": " Nos petits prix du quotidien",
+          "code": "R03",
+          "id": "34992",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/9122043954783dfda1ffb3295cbdc1ba\/p_96x96\/34992.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "les-essentiels-",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/34992\/layers",
+          "link": "\/boutique\/defi-anti-inflation"
+        },
+        {
+          "name": "High-Tech, Maison et Loisirs",
+          "code": "R04",
+          "id": "34452",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/66ee4696427d30daa7adb51c47a9fe67\/p_96x96\/34452.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "high-tech-jardin-maison-loisirs",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/34452\/layers",
+          "link": "\/shopping"
+        },
+        {
+          "name": "Nouveaut\u00e9s et Pr\u00e9commandes",
+          "code": "R08",
+          "id": "35129",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/06bc17594cc6322a9e65546d17703f28\/p_96x96\/35129.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "nouveautes",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/35129\/layers",
+          "link": "\/nouveautes"
+        },
+        {
+          "name": "Nos s\u00e9lections",
+          "code": "R09",
+          "id": "35155",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/7ba2a866739c38469b949a1a4c9a8369\/p_96x96\/35155.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "selections",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/35155\/layers",
+          "link": "\/boutique\/nos-selections"
+        },
+        {
+          "name": "Bio et Ecologie",
+          "code": "R10",
+          "id": "1838",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/5f3d0dc998fd3a20831086a36082fd36\/p_96x96\/1838.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "bio-et-ecologie",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/1838\/layers",
+          "link": "\/r\/bio-et-ecologie"
+        },
+        {
+          "name": "Fruits et L\u00e9gumes",
+          "code": "R11",
+          "id": "1882",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/185e7fe99d4a39b5a6cca9e806324d3d\/p_96x96\/1882.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "fruits-et-legumes",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/1882\/layers",
+          "link": "\/r\/fruits-et-legumes"
+        },
+        {
+          "name": "Viandes et Poissons",
+          "code": "R12",
+          "id": "1921",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/8dfaa20db923345cb83225cc430e51e3\/p_96x96\/1921.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "viandes-et-poissons",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/1921\/layers",
+          "link": "\/r\/viandes-et-poissons"
+        },
+        {
+          "name": "Pains et P\u00e2tisseries",
+          "code": "R13",
+          "id": "1952",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/7555898f95a53010996592b7d2ecf854\/p_96x96\/1952.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "pains-et-patisseries",
+          "selected": false,
+          "children": null,
+          "layers": "\/navigation\/1952\/layers",
+          "link": "\/r\/pains-et-patisseries"
+        },
+        {
+          "name": "Frais",
+          "code": "R14",
+          "id": "28127",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/9fb528d6d5db306cb9f413840d7b6425\/p_96x96\/28127.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "frais",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/28127\/layers",
+          "link": "\/r\/frais"
+        },
+        {
+          "name": "Surgel\u00e9s",
+          "code": "R15",
+          "id": "2074",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/5586596a0fc730d5846de9a72d3cea57\/p_96x96\/2074.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "surgeles",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/2074\/layers",
+          "link": "\/r\/surgeles"
+        },
+        {
+          "name": "Boissons",
+          "code": "R16",
+          "id": "27070",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/7e534a7ee4fa388fa84d5f101059ebb0\/p_96x96\/27070.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "boissons",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/27070\/layers",
+          "link": "\/r\/boissons"
+        },
+        {
+          "name": "Epicerie sal\u00e9e",
+          "code": "R17",
+          "id": "2112",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/e4d537e30ae43902b93147c989d2ad02\/p_96x96\/2112.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "epicerie-salee",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/2112\/layers",
+          "link": "\/r\/epicerie-salee"
+        },
+        {
+          "name": "Epicerie sucr\u00e9e",
+          "code": "R18",
+          "id": "2183",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/844bd69b601734e28a6a6071e6595585\/p_96x96\/2183.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "epicerie-sucree",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/2183\/layers",
+          "link": "\/r\/epicerie-sucree"
+        },
+        {
+          "name": "Produits r\u00e9gionaux et locaux",
+          "code": "R20",
+          "id": "3887",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/b74c8b8477cd3c978c65450fbb9c4285\/p_96x96\/3887.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "produits-du-terroir",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/3887\/layers",
+          "link": "\/r\/produits-du-terroir"
+        },
+        {
+          "name": "Nutrition et Di\u00e9t\u00e9tique",
+          "code": "R21",
+          "id": "30350",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/0156b5327d083f6e9016f0ef938832c7\/p_96x96\/30350.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "dietetique-preferences-alimentaires",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/30350\/layers",
+          "link": "\/r\/dietetique-preferences-alimentaires"
+        },
+        {
+          "name": "Hygi\u00e8ne et Beaut\u00e9",
+          "code": "R22",
+          "id": "2415",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/a0812ad978dd398e92bad45650bcc925\/p_96x96\/2415.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "hygiene-et-beaute",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/2415\/layers",
+          "link": "\/r\/hygiene-et-beaute"
+        },
+        {
+          "name": "Entretien et Nettoyage",
+          "code": "R24",
+          "id": "2589",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/4334cdd14c8735afb0f595215f1efe1c\/p_96x96\/2589.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "entretien-et-nettoyage",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/2589\/layers",
+          "link": "\/r\/entretien-et-nettoyage"
+        },
+        {
+          "name": "Animalerie",
+          "code": "R25",
+          "id": "29014",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/01e00b02896734229c513fe453512ca4\/p_96x96\/29014.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "animalerie",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/29014\/layers",
+          "link": "\/r\/animalerie"
+        },
+        {
+          "name": "Jeux vid\u00e9o",
+          "code": "R26",
+          "id": "26021",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/7a207ecb3c9c3b3eb3639203bd01c0b2\/p_96x96\/26021.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "jeux-videos-culture",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26021\/layers",
+          "link": "\/r\/jeux-videos-culture"
+        },
+        {
+          "name": "Smartphones et Objets connect\u00e9s",
+          "code": "R27",
+          "id": "26020",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/82100b15c14730fb89c80a9f454006c6\/p_96x96\/26020.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "smartphones-objets-connectes",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26020\/layers",
+          "link": "\/r\/smartphones-objets-connectes"
+        },
+        {
+          "name": "Informatique et Bureau",
+          "code": "R28",
+          "id": "26018",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/e08cf0e28c5a3c82a41dfa14b2b32dc8\/p_96x96\/26018.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "informatique-bureau",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26018\/layers",
+          "link": "\/r\/informatique-bureau"
+        },
+        {
+          "name": "Image et Son",
+          "code": "R29",
+          "id": "26019",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/a552ad27da6c3118b9a0eb04fafaaadc\/p_96x96\/26019.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "image-son",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26019\/layers",
+          "link": "\/r\/image-son"
+        },
+        {
+          "name": "Electrom\u00e9nager",
+          "code": "R30",
+          "id": "26016",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/c17c67e5f52932fe934e3d7d3dc42e33\/p_96x96\/26016.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "electromenager",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26016\/layers",
+          "link": "\/r\/electromenager"
+        },
+        {
+          "name": "Jeux et Jouets",
+          "code": "R31",
+          "id": "26068",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/5d5c9f63f266386fa54ad1dd1a2d7180\/p_96x96\/26068.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "jeux-jouets",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26068\/layers",
+          "link": "\/r\/jeux-jouets"
+        },
+        {
+          "name": "Sports, Loisirs et Mobilit\u00e9 urbaine",
+          "code": "R32",
+          "id": "26590",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/b977286587613675b3dfa62218d5f32e\/p_96x96\/26590.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "jouets-sports-loisirs",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26590\/layers",
+          "link": "\/r\/jouets-sports-loisirs"
+        },
+        {
+          "name": "B\u00e9b\u00e9",
+          "code": "R33",
+          "id": "26953",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/ca56671104913afaac2ac8c5e22c0e6a\/p_96x96\/26953.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "mixt",
+          "slug": "bebe",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26953\/layers",
+          "link": "\/r\/bebe"
+        },
+        {
+          "name": "Bricolage",
+          "code": "R34",
+          "id": "34464",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/79f1daba17af33d9bb9c150fc10e5022\/p_96x96\/34464.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "bricolage",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/34464\/layers",
+          "link": "\/r\/bricolage"
+        },
+        {
+          "name": "Maison et D\u00e9coration",
+          "code": "R35",
+          "id": "26024",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/5c9ce6733b1b3ddebf556c5a3f727c45\/p_96x96\/26024.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "maison-decoration",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26024\/layers",
+          "link": "\/r\/maison-decoration"
+        },
+        {
+          "name": "Jardin et Am\u00e9nagement d'ext\u00e9rieur",
+          "code": "R36",
+          "id": "33758",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/6a93eafd082a3946987e617e1144cdf4\/p_96x96\/33758.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "jardin-amenagement-dexterieur",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/33758\/layers",
+          "link": "\/r\/jardin-amenagement-dexterieur"
+        },
+        {
+          "name": "Mode et Bagagerie",
+          "code": "R38",
+          "id": "26025",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/b21744f2a43437b6821caa6394c8dff0\/p_96x96\/26025.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "mode-bagagerie",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/26025\/layers",
+          "link": "\/r\/mode-bagagerie"
+        },
+        {
+          "name": "Livres et Culture",
+          "code": "R39",
+          "id": "32036",
+          "type": "RAYON",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/6eba2aae0a713d71a241c179af494cc2\/p_96x96\/32036.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "livres",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/32036\/layers",
+          "link": "\/r\/livres"
+        },
+        {
+          "name": "Nos commer\u00e7ants partenaires",
+          "code": "R41",
+          "id": "35236",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/9e21000de57332f6a7384fac85395373\/p_96x96\/35236.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "non-food",
+          "slug": "commercants-partenaires",
+          "selected": false,
+          "children": null,
+          "layers": "\/navigation\/35236\/layers",
+          "link": "\/edito\/nos-commercants-partenaires"
+        },
+        {
+          "name": "Commande traiteur",
+          "code": "R42",
+          "id": "35176",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/d3bd218582eb3511b87fca809191d8a6\/p_96x96\/35176.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "food",
+          "slug": "commandes-traiteur",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/35176\/layers",
+          "link": "https:\/\/traiteur.carrefour.fr"
+        },
+        {
+          "name": "Services",
+          "code": "R43",
+          "id": "30825",
+          "type": "REDIRECTION",
+          "picto": "https:\/\/media-sint.one.carrefour.com\/medias\/9de65e43c6a03b5e8e04d60414c87cf7\/p_96x96\/30825.jpg",
+          "level": 1,
+          "sellerId": null,
+          "isNew": false,
+          "businessType": "mixt",
+          "slug": "services",
+          "selected": false,
+          "children": [],
+          "layers": "\/navigation\/30825\/layers",
+          "link": "\/services"
+        }
+      ],
+      "created_at": {
+        "date": "2023-06-29 09:36:22.000000",
+        "timezone_type": 1,
+        "timezone": "+02:00"
+      }
+    },
+    "prime": {
+      "primeEnabled": true,
+      "loyaltyPrimePassEnabled": true
+    },
+    "promotion": {
+      "fidelityQueryId": "query_8014",
+      "promotionQueryId": "group_8"
+    },
+    "queueIt": {
+      "enabled": false
+    },
+    "seo": {
+      "canonicalUrl": "https:\/\/carrefour.local\/",
+      "schemeHost": "https:\/\/carrefour.local"
+    },
+    "shoppingList": {
+      "fetch": true
+    },
+    "siebel": {
+      "enabled": true
+    },
+    "slot": {
+      "title": "A partir du J. 29 Juin \u00e0 12h00",
+      "hour": "12h00",
+      "date": {
+        "begin": "2023-06-29T12:00:00+0200",
+        "end": "2023-06-29T12:30:00+0200",
+        "cutoff": "2023-06-29T10:00:00+0200"
+      },
+      "ref": "6e3302cb-8fbd-4a45-8ed5-2b48be4d0438",
+      "isDefault": false,
+      "dayMaxCapacity": null,
+      "dayUsedCapacity": null,
+      "fillRate": 50,
+      "slice": "1A"
+    },
+    "slotWarning": {
+      "usedThreshold": null,
+      "idle": 1800,
+      "cutOff": {
+        "timeBeforeNotification": 600,
+        "pushDuration": 10,
+        "enabled": true
+      }
+    },
+    "store": {
+      "ref": "7879",
+      "basketServiceId": "7879-150-353",
+      "name": "Market Milly-La-For\u00eat",
+      "isDrive": true,
+      "isLad": false,
+      "isClcv": false,
+      "isExpressDelivery": false,
+      "isHomeDelivery": false,
+      "postalCode": "91490",
+      "mode": "PICKING_DRIVE",
+      "cartStoreFormat": "SUPER",
+      "format": "SUPER",
+      "driveType": "drive",
+      "isLoyaltyActivated": true,
+      "orderType": "PICKING_DRIVE",
+      "cartStoreID": "353",
+      "canPayOnStore": false,
+      "cardAcceptedOnStore": [],
+      "address": {
+        "address1": "Zi Bois Du Chenet",
+        "address2": "Route De Maisse",
+        "address3": "",
+        "city": "Milly-la-For\u00eat",
+        "cityCode": "91405",
+        "postalCode": "91490",
+        "region": "\u00cele-de-France",
+        "geoCoordinates": {
+          "lat": 48.39975,
+          "lon": 2.42097
+        }
+      },
+      "distance": null,
+      "isOpenToday": true,
+      "todayOpening": [
+        {
+          "begTime": "2023-06-29T09:00:00+02:00",
+          "endTime": "2023-06-29T20:00:00+02:00"
+        }
+      ],
+      "pickingMode": null,
+      "banner": "MARKET",
+      "minOrderAmount": 15,
+      "preparationPrice": 0,
+      "storePageUrl": "\/magasin\/market-milly-la-foret",
+      "phoneNumber": "0033164989840",
+      "isYieldEligible": false,
+      "deliveryFees": {
+        "amount": null,
+        "minOrderAmount": 15
+      },
+      "deliveryFeesThresholds": null,
+      "promise": null,
+      "isMirror": false,
+      "isVirtual": false,
+      "hideDriveFeesEnabled": true
+    },
+    "tagCommander": {
+      "enabled": true,
+      "env": "preprod",
+      "scripts": {
+        "head": [
+          "https:\/\/cdn.tagcommander.com\/3969\/uat\/tc_CarrefourONE_20.js"
+        ],
+        "body": [
+          "https:\/\/cdn.tagcommander.com\/3969\/uat\/tc_CarrefourONE_21.js",
+          "https:\/\/cdn.tagcommander.com\/3969\/uat\/tc_CarrefourONE_22.js"
+        ]
+      }
+    }
+  }
+}
